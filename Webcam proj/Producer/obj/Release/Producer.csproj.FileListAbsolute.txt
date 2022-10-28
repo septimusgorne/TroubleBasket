@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\bin\Release\Producer.exe.config
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\bin\Release\Producer.exe
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\bin\Release\Producer.pdb
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\bin\Release\AForge.dll
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\bin\Release\AForge.Video.dll
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\bin\Release\AForge.xml
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\bin\Release\AForge.Video.xml
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\obj\Release\Producer.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\obj\Release\Producer.csproj.SuggestedBindingRedirects.cache
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\obj\Release\Producer.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\obj\Release\Producer.csproj.CopyComplete
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\obj\Release\Producer.exe
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\obj\Release\Producer.pdb

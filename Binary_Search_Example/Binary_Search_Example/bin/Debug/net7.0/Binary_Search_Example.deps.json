@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Binary_Search_Example/1.0.0": {
+        "runtime": {
+          "Binary_Search_Example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Binary_Search_Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

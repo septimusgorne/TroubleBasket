@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\bin\Debug\net7.0\HaveADonateFun.exe
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\bin\Debug\net7.0\HaveADonateFun.deps.json
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\bin\Debug\net7.0\HaveADonateFun.runtimeconfig.json
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\bin\Debug\net7.0\HaveADonateFun.dll
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\bin\Debug\net7.0\HaveADonateFun.pdb
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\HaveADonateFun.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\HaveADonateFun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\HaveADonateFun.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\HaveADonateFun.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\HaveADonateFun.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\HaveADonateFun.dll
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\refint\HaveADonateFun.dll
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\HaveADonateFun.pdb
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\HaveADonateFun.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\ref\HaveADonateFun.dll

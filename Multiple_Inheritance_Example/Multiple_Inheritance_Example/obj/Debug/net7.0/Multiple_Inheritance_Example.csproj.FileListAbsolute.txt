@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Multiple_Inheritance_Example\Multiple_Inheritance_Example\bin\Debug\net7.0\Multiple_Inheritance_Example.exe
+C:\Users\dj_ar\source\repos\Multiple_Inheritance_Example\Multiple_Inheritance_Example\bin\Debug\net7.0\Multiple_Inheritance_Example.deps.json
+C:\Users\dj_ar\source\repos\Multiple_Inheritance_Example\Multiple_Inheritance_Example\bin\Debug\net7.0\Multiple_Inheritance_Example.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Multiple_Inheritance_Example\Multiple_Inheritance_Example\bin\Debug\net7.0\Multiple_Inheritance_Example.dll
+C:\Users\dj_ar\source\repos\Multiple_Inheritance_Example\Multiple_Inheritance_Example\bin\Debug\net7.0\Multiple_Inheritance_Example.pdb
+C:\Users\dj_ar\source\repos\Multiple_Inheritance_Example\Multiple_Inheritance_Example\obj\Debug\net7.0\Multiple_Inheritance_Example.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Multiple_Inheritance_Example\Multiple_Inheritance_Example\obj\Debug\net7.0\Multiple_Inheritance_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Multiple_Inheritance_Example\Multiple_Inheritance_Example\obj\Debug\net7.0\Multiple_Inheritance_Example.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Multiple_Inheritance_Example\Multiple_Inheritance_Example\obj\Debug\net7.0\Multiple_Inheritance_Example.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Multiple_Inheritance_Example\Multiple_Inheritance_Example\obj\Debug\net7.0\Multiple_Inheritance_Example.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Multiple_Inheritance_Example\Multiple_Inheritance_Example\obj\Debug\net7.0\Multiple_Inheritance_Example.dll
+C:\Users\dj_ar\source\repos\Multiple_Inheritance_Example\Multiple_Inheritance_Example\obj\Debug\net7.0\refint\Multiple_Inheritance_Example.dll
+C:\Users\dj_ar\source\repos\Multiple_Inheritance_Example\Multiple_Inheritance_Example\obj\Debug\net7.0\Multiple_Inheritance_Example.pdb
+C:\Users\dj_ar\source\repos\Multiple_Inheritance_Example\Multiple_Inheritance_Example\obj\Debug\net7.0\Multiple_Inheritance_Example.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Multiple_Inheritance_Example\Multiple_Inheritance_Example\obj\Debug\net7.0\ref\Multiple_Inheritance_Example.dll

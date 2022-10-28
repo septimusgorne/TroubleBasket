@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\ConsoleApp3\ExampleReadOnly\bin\Debug\net7.0\ExampleReadOnly.exe
+C:\Users\dj_ar\source\repos\ConsoleApp3\ExampleReadOnly\bin\Debug\net7.0\ExampleReadOnly.deps.json
+C:\Users\dj_ar\source\repos\ConsoleApp3\ExampleReadOnly\bin\Debug\net7.0\ExampleReadOnly.runtimeconfig.json
+C:\Users\dj_ar\source\repos\ConsoleApp3\ExampleReadOnly\bin\Debug\net7.0\ExampleReadOnly.dll
+C:\Users\dj_ar\source\repos\ConsoleApp3\ExampleReadOnly\bin\Debug\net7.0\ExampleReadOnly.pdb
+C:\Users\dj_ar\source\repos\ConsoleApp3\ExampleReadOnly\obj\Debug\net7.0\ExampleReadOnly.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\ConsoleApp3\ExampleReadOnly\obj\Debug\net7.0\ExampleReadOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\ConsoleApp3\ExampleReadOnly\obj\Debug\net7.0\ExampleReadOnly.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\ConsoleApp3\ExampleReadOnly\obj\Debug\net7.0\ExampleReadOnly.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\ConsoleApp3\ExampleReadOnly\obj\Debug\net7.0\ExampleReadOnly.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\ConsoleApp3\ExampleReadOnly\obj\Debug\net7.0\ExampleReadOnly.dll
+C:\Users\dj_ar\source\repos\ConsoleApp3\ExampleReadOnly\obj\Debug\net7.0\refint\ExampleReadOnly.dll
+C:\Users\dj_ar\source\repos\ConsoleApp3\ExampleReadOnly\obj\Debug\net7.0\ExampleReadOnly.pdb
+C:\Users\dj_ar\source\repos\ConsoleApp3\ExampleReadOnly\obj\Debug\net7.0\ExampleReadOnly.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\ConsoleApp3\ExampleReadOnly\obj\Debug\net7.0\ref\ExampleReadOnly.dll

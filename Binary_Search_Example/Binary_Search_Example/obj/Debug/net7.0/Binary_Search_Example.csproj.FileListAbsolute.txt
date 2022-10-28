@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Binary_Search_Example\Binary_Search_Example\bin\Debug\net7.0\Binary_Search_Example.exe
+C:\Users\dj_ar\source\repos\Binary_Search_Example\Binary_Search_Example\bin\Debug\net7.0\Binary_Search_Example.deps.json
+C:\Users\dj_ar\source\repos\Binary_Search_Example\Binary_Search_Example\bin\Debug\net7.0\Binary_Search_Example.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Binary_Search_Example\Binary_Search_Example\bin\Debug\net7.0\Binary_Search_Example.dll
+C:\Users\dj_ar\source\repos\Binary_Search_Example\Binary_Search_Example\bin\Debug\net7.0\Binary_Search_Example.pdb
+C:\Users\dj_ar\source\repos\Binary_Search_Example\Binary_Search_Example\obj\Debug\net7.0\Binary_Search_Example.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Binary_Search_Example\Binary_Search_Example\obj\Debug\net7.0\Binary_Search_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Binary_Search_Example\Binary_Search_Example\obj\Debug\net7.0\Binary_Search_Example.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Binary_Search_Example\Binary_Search_Example\obj\Debug\net7.0\Binary_Search_Example.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Binary_Search_Example\Binary_Search_Example\obj\Debug\net7.0\Binary_Search_Example.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Binary_Search_Example\Binary_Search_Example\obj\Debug\net7.0\Binary_Search_Example.dll
+C:\Users\dj_ar\source\repos\Binary_Search_Example\Binary_Search_Example\obj\Debug\net7.0\refint\Binary_Search_Example.dll
+C:\Users\dj_ar\source\repos\Binary_Search_Example\Binary_Search_Example\obj\Debug\net7.0\Binary_Search_Example.pdb
+C:\Users\dj_ar\source\repos\Binary_Search_Example\Binary_Search_Example\obj\Debug\net7.0\Binary_Search_Example.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Binary_Search_Example\Binary_Search_Example\obj\Debug\net7.0\ref\Binary_Search_Example.dll

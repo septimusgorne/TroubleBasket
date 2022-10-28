@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Line_Experimental_ImitationRoads/1.0.0": {
+        "runtime": {
+          "Line_Experimental_ImitationRoads.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Line_Experimental_ImitationRoads/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

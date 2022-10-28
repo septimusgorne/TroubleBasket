@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\10_to_2.System_number_Example\10_to_2.System_number_Example\bin\Debug\net7.0\10_to_2.System_number_Example.exe
+C:\Users\dj_ar\source\repos\10_to_2.System_number_Example\10_to_2.System_number_Example\bin\Debug\net7.0\10_to_2.System_number_Example.deps.json
+C:\Users\dj_ar\source\repos\10_to_2.System_number_Example\10_to_2.System_number_Example\bin\Debug\net7.0\10_to_2.System_number_Example.runtimeconfig.json
+C:\Users\dj_ar\source\repos\10_to_2.System_number_Example\10_to_2.System_number_Example\bin\Debug\net7.0\10_to_2.System_number_Example.dll
+C:\Users\dj_ar\source\repos\10_to_2.System_number_Example\10_to_2.System_number_Example\bin\Debug\net7.0\10_to_2.System_number_Example.pdb
+C:\Users\dj_ar\source\repos\10_to_2.System_number_Example\10_to_2.System_number_Example\obj\Debug\net7.0\10_to_2.System_number_Example.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\10_to_2.System_number_Example\10_to_2.System_number_Example\obj\Debug\net7.0\10_to_2.System_number_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\10_to_2.System_number_Example\10_to_2.System_number_Example\obj\Debug\net7.0\10_to_2.System_number_Example.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\10_to_2.System_number_Example\10_to_2.System_number_Example\obj\Debug\net7.0\10_to_2.System_number_Example.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\10_to_2.System_number_Example\10_to_2.System_number_Example\obj\Debug\net7.0\10_to_2.System_number_Example.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\10_to_2.System_number_Example\10_to_2.System_number_Example\obj\Debug\net7.0\10_to_2.System_number_Example.dll
+C:\Users\dj_ar\source\repos\10_to_2.System_number_Example\10_to_2.System_number_Example\obj\Debug\net7.0\refint\10_to_2.System_number_Example.dll
+C:\Users\dj_ar\source\repos\10_to_2.System_number_Example\10_to_2.System_number_Example\obj\Debug\net7.0\10_to_2.System_number_Example.pdb
+C:\Users\dj_ar\source\repos\10_to_2.System_number_Example\10_to_2.System_number_Example\obj\Debug\net7.0\10_to_2.System_number_Example.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\10_to_2.System_number_Example\10_to_2.System_number_Example\obj\Debug\net7.0\ref\10_to_2.System_number_Example.dll

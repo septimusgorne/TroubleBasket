@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Interface_Example_2\Interface_Example_2\bin\Debug\net7.0\Interface_Example_2.exe
+C:\Users\dj_ar\source\repos\Interface_Example_2\Interface_Example_2\bin\Debug\net7.0\Interface_Example_2.deps.json
+C:\Users\dj_ar\source\repos\Interface_Example_2\Interface_Example_2\bin\Debug\net7.0\Interface_Example_2.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Interface_Example_2\Interface_Example_2\bin\Debug\net7.0\Interface_Example_2.dll
+C:\Users\dj_ar\source\repos\Interface_Example_2\Interface_Example_2\bin\Debug\net7.0\Interface_Example_2.pdb
+C:\Users\dj_ar\source\repos\Interface_Example_2\Interface_Example_2\obj\Debug\net7.0\Interface_Example_2.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Interface_Example_2\Interface_Example_2\obj\Debug\net7.0\Interface_Example_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Interface_Example_2\Interface_Example_2\obj\Debug\net7.0\Interface_Example_2.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Interface_Example_2\Interface_Example_2\obj\Debug\net7.0\Interface_Example_2.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Interface_Example_2\Interface_Example_2\obj\Debug\net7.0\Interface_Example_2.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Interface_Example_2\Interface_Example_2\obj\Debug\net7.0\Interface_Example_2.dll
+C:\Users\dj_ar\source\repos\Interface_Example_2\Interface_Example_2\obj\Debug\net7.0\refint\Interface_Example_2.dll
+C:\Users\dj_ar\source\repos\Interface_Example_2\Interface_Example_2\obj\Debug\net7.0\Interface_Example_2.pdb
+C:\Users\dj_ar\source\repos\Interface_Example_2\Interface_Example_2\obj\Debug\net7.0\Interface_Example_2.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Interface_Example_2\Interface_Example_2\obj\Debug\net7.0\ref\Interface_Example_2.dll

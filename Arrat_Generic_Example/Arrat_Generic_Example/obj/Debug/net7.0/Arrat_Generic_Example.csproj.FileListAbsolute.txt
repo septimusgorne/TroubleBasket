@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Arrat_Generic_Example\Arrat_Generic_Example\bin\Debug\net7.0\Arrat_Generic_Example.exe
+C:\Users\dj_ar\source\repos\Arrat_Generic_Example\Arrat_Generic_Example\bin\Debug\net7.0\Arrat_Generic_Example.deps.json
+C:\Users\dj_ar\source\repos\Arrat_Generic_Example\Arrat_Generic_Example\bin\Debug\net7.0\Arrat_Generic_Example.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Arrat_Generic_Example\Arrat_Generic_Example\bin\Debug\net7.0\Arrat_Generic_Example.dll
+C:\Users\dj_ar\source\repos\Arrat_Generic_Example\Arrat_Generic_Example\bin\Debug\net7.0\Arrat_Generic_Example.pdb
+C:\Users\dj_ar\source\repos\Arrat_Generic_Example\Arrat_Generic_Example\obj\Debug\net7.0\Arrat_Generic_Example.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Arrat_Generic_Example\Arrat_Generic_Example\obj\Debug\net7.0\Arrat_Generic_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Arrat_Generic_Example\Arrat_Generic_Example\obj\Debug\net7.0\Arrat_Generic_Example.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Arrat_Generic_Example\Arrat_Generic_Example\obj\Debug\net7.0\Arrat_Generic_Example.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Arrat_Generic_Example\Arrat_Generic_Example\obj\Debug\net7.0\Arrat_Generic_Example.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Arrat_Generic_Example\Arrat_Generic_Example\obj\Debug\net7.0\Arrat_Generic_Example.dll
+C:\Users\dj_ar\source\repos\Arrat_Generic_Example\Arrat_Generic_Example\obj\Debug\net7.0\refint\Arrat_Generic_Example.dll
+C:\Users\dj_ar\source\repos\Arrat_Generic_Example\Arrat_Generic_Example\obj\Debug\net7.0\Arrat_Generic_Example.pdb
+C:\Users\dj_ar\source\repos\Arrat_Generic_Example\Arrat_Generic_Example\obj\Debug\net7.0\Arrat_Generic_Example.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Arrat_Generic_Example\Arrat_Generic_Example\obj\Debug\net7.0\ref\Arrat_Generic_Example.dll

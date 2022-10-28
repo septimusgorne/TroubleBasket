@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Skillbox_CSharpCourse_1\Skillbox_CSharpCourse_1\bin\Debug\net7.0\Skillbox_CSharpCourse_1.exe
+C:\Users\dj_ar\source\repos\Skillbox_CSharpCourse_1\Skillbox_CSharpCourse_1\bin\Debug\net7.0\Skillbox_CSharpCourse_1.deps.json
+C:\Users\dj_ar\source\repos\Skillbox_CSharpCourse_1\Skillbox_CSharpCourse_1\bin\Debug\net7.0\Skillbox_CSharpCourse_1.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Skillbox_CSharpCourse_1\Skillbox_CSharpCourse_1\bin\Debug\net7.0\Skillbox_CSharpCourse_1.dll
+C:\Users\dj_ar\source\repos\Skillbox_CSharpCourse_1\Skillbox_CSharpCourse_1\bin\Debug\net7.0\Skillbox_CSharpCourse_1.pdb
+C:\Users\dj_ar\source\repos\Skillbox_CSharpCourse_1\Skillbox_CSharpCourse_1\obj\Debug\net7.0\Skillbox_CSharpCourse_1.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Skillbox_CSharpCourse_1\Skillbox_CSharpCourse_1\obj\Debug\net7.0\Skillbox_CSharpCourse_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Skillbox_CSharpCourse_1\Skillbox_CSharpCourse_1\obj\Debug\net7.0\Skillbox_CSharpCourse_1.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Skillbox_CSharpCourse_1\Skillbox_CSharpCourse_1\obj\Debug\net7.0\Skillbox_CSharpCourse_1.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Skillbox_CSharpCourse_1\Skillbox_CSharpCourse_1\obj\Debug\net7.0\Skillbox_CSharpCourse_1.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Skillbox_CSharpCourse_1\Skillbox_CSharpCourse_1\obj\Debug\net7.0\Skillbox_CSharpCourse_1.dll
+C:\Users\dj_ar\source\repos\Skillbox_CSharpCourse_1\Skillbox_CSharpCourse_1\obj\Debug\net7.0\refint\Skillbox_CSharpCourse_1.dll
+C:\Users\dj_ar\source\repos\Skillbox_CSharpCourse_1\Skillbox_CSharpCourse_1\obj\Debug\net7.0\Skillbox_CSharpCourse_1.pdb
+C:\Users\dj_ar\source\repos\Skillbox_CSharpCourse_1\Skillbox_CSharpCourse_1\obj\Debug\net7.0\Skillbox_CSharpCourse_1.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Skillbox_CSharpCourse_1\Skillbox_CSharpCourse_1\obj\Debug\net7.0\ref\Skillbox_CSharpCourse_1.dll

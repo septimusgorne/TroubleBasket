@@ -1,0 +1,17 @@
+C:\Users\dj_ar\source\repos\My_Fractal_Example\My_Fractal_Example\bin\Debug\net7.0-windows\My_Fractal_Example.exe
+C:\Users\dj_ar\source\repos\My_Fractal_Example\My_Fractal_Example\bin\Debug\net7.0-windows\My_Fractal_Example.deps.json
+C:\Users\dj_ar\source\repos\My_Fractal_Example\My_Fractal_Example\bin\Debug\net7.0-windows\My_Fractal_Example.runtimeconfig.json
+C:\Users\dj_ar\source\repos\My_Fractal_Example\My_Fractal_Example\bin\Debug\net7.0-windows\My_Fractal_Example.dll
+C:\Users\dj_ar\source\repos\My_Fractal_Example\My_Fractal_Example\bin\Debug\net7.0-windows\My_Fractal_Example.pdb
+C:\Users\dj_ar\source\repos\My_Fractal_Example\My_Fractal_Example\obj\Debug\net7.0-windows\My_Fractal_Example.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\My_Fractal_Example\My_Fractal_Example\obj\Debug\net7.0-windows\My_Fractal_Example.Form1.resources
+C:\Users\dj_ar\source\repos\My_Fractal_Example\My_Fractal_Example\obj\Debug\net7.0-windows\My_Fractal_Example.csproj.GenerateResource.cache
+C:\Users\dj_ar\source\repos\My_Fractal_Example\My_Fractal_Example\obj\Debug\net7.0-windows\My_Fractal_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\My_Fractal_Example\My_Fractal_Example\obj\Debug\net7.0-windows\My_Fractal_Example.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\My_Fractal_Example\My_Fractal_Example\obj\Debug\net7.0-windows\My_Fractal_Example.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\My_Fractal_Example\My_Fractal_Example\obj\Debug\net7.0-windows\My_Fractal_Example.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\My_Fractal_Example\My_Fractal_Example\obj\Debug\net7.0-windows\My_Fractal_Example.dll
+C:\Users\dj_ar\source\repos\My_Fractal_Example\My_Fractal_Example\obj\Debug\net7.0-windows\refint\My_Fractal_Example.dll
+C:\Users\dj_ar\source\repos\My_Fractal_Example\My_Fractal_Example\obj\Debug\net7.0-windows\My_Fractal_Example.pdb
+C:\Users\dj_ar\source\repos\My_Fractal_Example\My_Fractal_Example\obj\Debug\net7.0-windows\My_Fractal_Example.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\My_Fractal_Example\My_Fractal_Example\obj\Debug\net7.0-windows\ref\My_Fractal_Example.dll

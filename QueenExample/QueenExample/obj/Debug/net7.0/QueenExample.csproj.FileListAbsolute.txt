@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\QueenExample\QueenExample\bin\Debug\net7.0\QueenExample.exe
+C:\Users\dj_ar\source\repos\QueenExample\QueenExample\bin\Debug\net7.0\QueenExample.deps.json
+C:\Users\dj_ar\source\repos\QueenExample\QueenExample\bin\Debug\net7.0\QueenExample.runtimeconfig.json
+C:\Users\dj_ar\source\repos\QueenExample\QueenExample\bin\Debug\net7.0\QueenExample.dll
+C:\Users\dj_ar\source\repos\QueenExample\QueenExample\bin\Debug\net7.0\QueenExample.pdb
+C:\Users\dj_ar\source\repos\QueenExample\QueenExample\obj\Debug\net7.0\QueenExample.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\QueenExample\QueenExample\obj\Debug\net7.0\QueenExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\QueenExample\QueenExample\obj\Debug\net7.0\QueenExample.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\QueenExample\QueenExample\obj\Debug\net7.0\QueenExample.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\QueenExample\QueenExample\obj\Debug\net7.0\QueenExample.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\QueenExample\QueenExample\obj\Debug\net7.0\QueenExample.dll
+C:\Users\dj_ar\source\repos\QueenExample\QueenExample\obj\Debug\net7.0\refint\QueenExample.dll
+C:\Users\dj_ar\source\repos\QueenExample\QueenExample\obj\Debug\net7.0\QueenExample.pdb
+C:\Users\dj_ar\source\repos\QueenExample\QueenExample\obj\Debug\net7.0\QueenExample.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\QueenExample\QueenExample\obj\Debug\net7.0\ref\QueenExample.dll

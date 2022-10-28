@@ -1,0 +1,8 @@
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonate\bin\Debug\HaveADonate.exe.config
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonate\bin\Debug\HaveADonate.exe
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonate\bin\Debug\HaveADonate.pdb
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonate\obj\Debug\HaveADonate.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonate\obj\Debug\HaveADonate.csproj.SuggestedBindingRedirects.cache
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonate\obj\Debug\HaveADonate.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonate\obj\Debug\HaveADonate.exe
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonate\obj\Debug\HaveADonate.pdb

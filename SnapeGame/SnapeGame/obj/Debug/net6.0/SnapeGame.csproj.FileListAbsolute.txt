@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\SnapeGame\SnapeGame\bin\Debug\net6.0\SnapeGame.exe
+C:\Users\dj_ar\source\repos\SnapeGame\SnapeGame\bin\Debug\net6.0\SnapeGame.deps.json
+C:\Users\dj_ar\source\repos\SnapeGame\SnapeGame\bin\Debug\net6.0\SnapeGame.runtimeconfig.json
+C:\Users\dj_ar\source\repos\SnapeGame\SnapeGame\bin\Debug\net6.0\SnapeGame.dll
+C:\Users\dj_ar\source\repos\SnapeGame\SnapeGame\bin\Debug\net6.0\SnapeGame.pdb
+C:\Users\dj_ar\source\repos\SnapeGame\SnapeGame\obj\Debug\net6.0\SnapeGame.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\SnapeGame\SnapeGame\obj\Debug\net6.0\SnapeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\SnapeGame\SnapeGame\obj\Debug\net6.0\SnapeGame.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\SnapeGame\SnapeGame\obj\Debug\net6.0\SnapeGame.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\SnapeGame\SnapeGame\obj\Debug\net6.0\SnapeGame.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\SnapeGame\SnapeGame\obj\Debug\net6.0\SnapeGame.dll
+C:\Users\dj_ar\source\repos\SnapeGame\SnapeGame\obj\Debug\net6.0\refint\SnapeGame.dll
+C:\Users\dj_ar\source\repos\SnapeGame\SnapeGame\obj\Debug\net6.0\SnapeGame.pdb
+C:\Users\dj_ar\source\repos\SnapeGame\SnapeGame\obj\Debug\net6.0\SnapeGame.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\SnapeGame\SnapeGame\obj\Debug\net6.0\ref\SnapeGame.dll

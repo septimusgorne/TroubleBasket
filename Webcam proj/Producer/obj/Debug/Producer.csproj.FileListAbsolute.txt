@@ -1,0 +1,8 @@
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\bin\Debug\Producer.exe.config
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\bin\Debug\Producer.exe
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\bin\Debug\Producer.pdb
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\obj\Debug\Producer.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\obj\Debug\Producer.csproj.SuggestedBindingRedirects.cache
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\obj\Debug\Producer.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\obj\Debug\Producer.exe
+C:\Users\dj_ar\source\repos\Webcam proj\Producer\obj\Debug\Producer.pdb

@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\ExampleCodeYoutubeLearn\obj\Debug\net6.0\ExampleCodeYoutubeLearn.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\ExampleCodeYoutubeLearn\obj\Debug\net6.0\ExampleCodeYoutubeLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\ExampleCodeYoutubeLearn\obj\Debug\net6.0\ExampleCodeYoutubeLearn.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\ExampleCodeYoutubeLearn\obj\Debug\net6.0\ExampleCodeYoutubeLearn.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\ExampleCodeYoutubeLearn\obj\Debug\net6.0\ExampleCodeYoutubeLearn.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\ExampleCodeYoutubeLearn\bin\Debug\net6.0\ExampleCodeYoutubeLearn.exe
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\ExampleCodeYoutubeLearn\bin\Debug\net6.0\ExampleCodeYoutubeLearn.deps.json
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\ExampleCodeYoutubeLearn\bin\Debug\net6.0\ExampleCodeYoutubeLearn.runtimeconfig.json
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\ExampleCodeYoutubeLearn\bin\Debug\net6.0\ExampleCodeYoutubeLearn.dll
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\ExampleCodeYoutubeLearn\bin\Debug\net6.0\ExampleCodeYoutubeLearn.pdb
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\ExampleCodeYoutubeLearn\obj\Debug\net6.0\ExampleCodeYoutubeLearn.dll
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\ExampleCodeYoutubeLearn\obj\Debug\net6.0\ref\ExampleCodeYoutubeLearn.dll
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\ExampleCodeYoutubeLearn\obj\Debug\net6.0\ExampleCodeYoutubeLearn.pdb
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\ExampleCodeYoutubeLearn\obj\Debug\net6.0\ExampleCodeYoutubeLearn.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\ExampleCodeYoutubeLearn\obj\Debug\net6.0\refint\ExampleCodeYoutubeLearn.dll

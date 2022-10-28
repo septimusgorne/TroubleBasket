@@ -1,0 +1,17 @@
+C:\Users\dj_ar\source\repos\Recursion_Three\Recursion_Three\bin\Debug\net7.0-windows\Recursion_Three.exe
+C:\Users\dj_ar\source\repos\Recursion_Three\Recursion_Three\bin\Debug\net7.0-windows\Recursion_Three.deps.json
+C:\Users\dj_ar\source\repos\Recursion_Three\Recursion_Three\bin\Debug\net7.0-windows\Recursion_Three.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Recursion_Three\Recursion_Three\bin\Debug\net7.0-windows\Recursion_Three.dll
+C:\Users\dj_ar\source\repos\Recursion_Three\Recursion_Three\bin\Debug\net7.0-windows\Recursion_Three.pdb
+C:\Users\dj_ar\source\repos\Recursion_Three\Recursion_Three\obj\Debug\net7.0-windows\Recursion_Three.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Recursion_Three\Recursion_Three\obj\Debug\net7.0-windows\Recursion_Three.Form1.resources
+C:\Users\dj_ar\source\repos\Recursion_Three\Recursion_Three\obj\Debug\net7.0-windows\Recursion_Three.csproj.GenerateResource.cache
+C:\Users\dj_ar\source\repos\Recursion_Three\Recursion_Three\obj\Debug\net7.0-windows\Recursion_Three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Recursion_Three\Recursion_Three\obj\Debug\net7.0-windows\Recursion_Three.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Recursion_Three\Recursion_Three\obj\Debug\net7.0-windows\Recursion_Three.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Recursion_Three\Recursion_Three\obj\Debug\net7.0-windows\Recursion_Three.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Recursion_Three\Recursion_Three\obj\Debug\net7.0-windows\Recursion_Three.dll
+C:\Users\dj_ar\source\repos\Recursion_Three\Recursion_Three\obj\Debug\net7.0-windows\refint\Recursion_Three.dll
+C:\Users\dj_ar\source\repos\Recursion_Three\Recursion_Three\obj\Debug\net7.0-windows\Recursion_Three.pdb
+C:\Users\dj_ar\source\repos\Recursion_Three\Recursion_Three\obj\Debug\net7.0-windows\Recursion_Three.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Recursion_Three\Recursion_Three\obj\Debug\net7.0-windows\ref\Recursion_Three.dll

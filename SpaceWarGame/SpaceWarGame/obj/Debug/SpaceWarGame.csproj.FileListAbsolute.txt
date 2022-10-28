@@ -1,0 +1,8 @@
+C:\Users\dj_ar\source\repos\SpaceWarGame\SpaceWarGame\bin\Debug\SpaceWarGame.exe.config
+C:\Users\dj_ar\source\repos\SpaceWarGame\SpaceWarGame\bin\Debug\SpaceWarGame.exe
+C:\Users\dj_ar\source\repos\SpaceWarGame\SpaceWarGame\bin\Debug\SpaceWarGame.pdb
+C:\Users\dj_ar\source\repos\SpaceWarGame\SpaceWarGame\obj\Debug\SpaceWarGame.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\SpaceWarGame\SpaceWarGame\obj\Debug\SpaceWarGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\dj_ar\source\repos\SpaceWarGame\SpaceWarGame\obj\Debug\SpaceWarGame.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\SpaceWarGame\SpaceWarGame\obj\Debug\SpaceWarGame.exe
+C:\Users\dj_ar\source\repos\SpaceWarGame\SpaceWarGame\obj\Debug\SpaceWarGame.pdb

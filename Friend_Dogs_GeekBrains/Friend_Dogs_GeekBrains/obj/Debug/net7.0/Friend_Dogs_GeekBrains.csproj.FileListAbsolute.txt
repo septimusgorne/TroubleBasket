@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Friend_Dogs_GeekBrains\Friend_Dogs_GeekBrains\bin\Debug\net7.0\Friend_Dogs_GeekBrains.exe
+C:\Users\dj_ar\source\repos\Friend_Dogs_GeekBrains\Friend_Dogs_GeekBrains\bin\Debug\net7.0\Friend_Dogs_GeekBrains.deps.json
+C:\Users\dj_ar\source\repos\Friend_Dogs_GeekBrains\Friend_Dogs_GeekBrains\bin\Debug\net7.0\Friend_Dogs_GeekBrains.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Friend_Dogs_GeekBrains\Friend_Dogs_GeekBrains\bin\Debug\net7.0\Friend_Dogs_GeekBrains.dll
+C:\Users\dj_ar\source\repos\Friend_Dogs_GeekBrains\Friend_Dogs_GeekBrains\bin\Debug\net7.0\Friend_Dogs_GeekBrains.pdb
+C:\Users\dj_ar\source\repos\Friend_Dogs_GeekBrains\Friend_Dogs_GeekBrains\obj\Debug\net7.0\Friend_Dogs_GeekBrains.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Friend_Dogs_GeekBrains\Friend_Dogs_GeekBrains\obj\Debug\net7.0\Friend_Dogs_GeekBrains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Friend_Dogs_GeekBrains\Friend_Dogs_GeekBrains\obj\Debug\net7.0\Friend_Dogs_GeekBrains.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Friend_Dogs_GeekBrains\Friend_Dogs_GeekBrains\obj\Debug\net7.0\Friend_Dogs_GeekBrains.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Friend_Dogs_GeekBrains\Friend_Dogs_GeekBrains\obj\Debug\net7.0\Friend_Dogs_GeekBrains.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Friend_Dogs_GeekBrains\Friend_Dogs_GeekBrains\obj\Debug\net7.0\Friend_Dogs_GeekBrains.dll
+C:\Users\dj_ar\source\repos\Friend_Dogs_GeekBrains\Friend_Dogs_GeekBrains\obj\Debug\net7.0\refint\Friend_Dogs_GeekBrains.dll
+C:\Users\dj_ar\source\repos\Friend_Dogs_GeekBrains\Friend_Dogs_GeekBrains\obj\Debug\net7.0\Friend_Dogs_GeekBrains.pdb
+C:\Users\dj_ar\source\repos\Friend_Dogs_GeekBrains\Friend_Dogs_GeekBrains\obj\Debug\net7.0\Friend_Dogs_GeekBrains.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Friend_Dogs_GeekBrains\Friend_Dogs_GeekBrains\obj\Debug\net7.0\ref\Friend_Dogs_GeekBrains.dll

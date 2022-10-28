@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\InheritanceBaseExample\InheritanceBaseExample\bin\Debug\net7.0\InheritanceBaseExample.exe
+C:\Users\dj_ar\source\repos\InheritanceBaseExample\InheritanceBaseExample\bin\Debug\net7.0\InheritanceBaseExample.deps.json
+C:\Users\dj_ar\source\repos\InheritanceBaseExample\InheritanceBaseExample\bin\Debug\net7.0\InheritanceBaseExample.runtimeconfig.json
+C:\Users\dj_ar\source\repos\InheritanceBaseExample\InheritanceBaseExample\bin\Debug\net7.0\InheritanceBaseExample.dll
+C:\Users\dj_ar\source\repos\InheritanceBaseExample\InheritanceBaseExample\bin\Debug\net7.0\InheritanceBaseExample.pdb
+C:\Users\dj_ar\source\repos\InheritanceBaseExample\InheritanceBaseExample\obj\Debug\net7.0\InheritanceBaseExample.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\InheritanceBaseExample\InheritanceBaseExample\obj\Debug\net7.0\InheritanceBaseExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\InheritanceBaseExample\InheritanceBaseExample\obj\Debug\net7.0\InheritanceBaseExample.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\InheritanceBaseExample\InheritanceBaseExample\obj\Debug\net7.0\InheritanceBaseExample.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\InheritanceBaseExample\InheritanceBaseExample\obj\Debug\net7.0\InheritanceBaseExample.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\InheritanceBaseExample\InheritanceBaseExample\obj\Debug\net7.0\InheritanceBaseExample.dll
+C:\Users\dj_ar\source\repos\InheritanceBaseExample\InheritanceBaseExample\obj\Debug\net7.0\refint\InheritanceBaseExample.dll
+C:\Users\dj_ar\source\repos\InheritanceBaseExample\InheritanceBaseExample\obj\Debug\net7.0\InheritanceBaseExample.pdb
+C:\Users\dj_ar\source\repos\InheritanceBaseExample\InheritanceBaseExample\obj\Debug\net7.0\InheritanceBaseExample.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\InheritanceBaseExample\InheritanceBaseExample\obj\Debug\net7.0\ref\InheritanceBaseExample.dll

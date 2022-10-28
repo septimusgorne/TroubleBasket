@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Homework_GB_3\Homework_GB_3\bin\Debug\net7.0\Homework_GB_3.exe
+C:\Users\dj_ar\source\repos\Homework_GB_3\Homework_GB_3\bin\Debug\net7.0\Homework_GB_3.deps.json
+C:\Users\dj_ar\source\repos\Homework_GB_3\Homework_GB_3\bin\Debug\net7.0\Homework_GB_3.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Homework_GB_3\Homework_GB_3\bin\Debug\net7.0\Homework_GB_3.dll
+C:\Users\dj_ar\source\repos\Homework_GB_3\Homework_GB_3\bin\Debug\net7.0\Homework_GB_3.pdb
+C:\Users\dj_ar\source\repos\Homework_GB_3\Homework_GB_3\obj\Debug\net7.0\Homework_GB_3.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Homework_GB_3\Homework_GB_3\obj\Debug\net7.0\Homework_GB_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Homework_GB_3\Homework_GB_3\obj\Debug\net7.0\Homework_GB_3.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Homework_GB_3\Homework_GB_3\obj\Debug\net7.0\Homework_GB_3.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Homework_GB_3\Homework_GB_3\obj\Debug\net7.0\Homework_GB_3.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Homework_GB_3\Homework_GB_3\obj\Debug\net7.0\Homework_GB_3.dll
+C:\Users\dj_ar\source\repos\Homework_GB_3\Homework_GB_3\obj\Debug\net7.0\refint\Homework_GB_3.dll
+C:\Users\dj_ar\source\repos\Homework_GB_3\Homework_GB_3\obj\Debug\net7.0\Homework_GB_3.pdb
+C:\Users\dj_ar\source\repos\Homework_GB_3\Homework_GB_3\obj\Debug\net7.0\Homework_GB_3.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Homework_GB_3\Homework_GB_3\obj\Debug\net7.0\ref\Homework_GB_3.dll

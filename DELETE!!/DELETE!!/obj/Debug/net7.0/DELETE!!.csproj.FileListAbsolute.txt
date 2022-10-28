@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\DELETE!!\DELETE!!\obj\Debug\net7.0\DELETE!!.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\DELETE!!\DELETE!!\obj\Debug\net7.0\DELETE!!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\DELETE!!\DELETE!!\obj\Debug\net7.0\DELETE!!.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\DELETE!!\DELETE!!\obj\Debug\net7.0\DELETE!!.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\DELETE!!\DELETE!!\obj\Debug\net7.0\DELETE!!.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\DELETE!!\DELETE!!\bin\Debug\net7.0\DELETE!!.exe
+C:\Users\dj_ar\source\repos\DELETE!!\DELETE!!\bin\Debug\net7.0\DELETE!!.deps.json
+C:\Users\dj_ar\source\repos\DELETE!!\DELETE!!\bin\Debug\net7.0\DELETE!!.runtimeconfig.json
+C:\Users\dj_ar\source\repos\DELETE!!\DELETE!!\bin\Debug\net7.0\DELETE!!.dll
+C:\Users\dj_ar\source\repos\DELETE!!\DELETE!!\bin\Debug\net7.0\DELETE!!.pdb
+C:\Users\dj_ar\source\repos\DELETE!!\DELETE!!\obj\Debug\net7.0\DELETE!!.dll
+C:\Users\dj_ar\source\repos\DELETE!!\DELETE!!\obj\Debug\net7.0\refint\DELETE!!.dll
+C:\Users\dj_ar\source\repos\DELETE!!\DELETE!!\obj\Debug\net7.0\DELETE!!.pdb
+C:\Users\dj_ar\source\repos\DELETE!!\DELETE!!\obj\Debug\net7.0\DELETE!!.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\DELETE!!\DELETE!!\obj\Debug\net7.0\ref\DELETE!!.dll

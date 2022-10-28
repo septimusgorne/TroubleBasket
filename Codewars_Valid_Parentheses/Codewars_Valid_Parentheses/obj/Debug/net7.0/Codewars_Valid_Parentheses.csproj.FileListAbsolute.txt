@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Codewars_Valid_Parentheses\Codewars_Valid_Parentheses\bin\Debug\net7.0\Codewars_Valid_Parentheses.exe
+C:\Users\dj_ar\source\repos\Codewars_Valid_Parentheses\Codewars_Valid_Parentheses\bin\Debug\net7.0\Codewars_Valid_Parentheses.deps.json
+C:\Users\dj_ar\source\repos\Codewars_Valid_Parentheses\Codewars_Valid_Parentheses\bin\Debug\net7.0\Codewars_Valid_Parentheses.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Codewars_Valid_Parentheses\Codewars_Valid_Parentheses\bin\Debug\net7.0\Codewars_Valid_Parentheses.dll
+C:\Users\dj_ar\source\repos\Codewars_Valid_Parentheses\Codewars_Valid_Parentheses\bin\Debug\net7.0\Codewars_Valid_Parentheses.pdb
+C:\Users\dj_ar\source\repos\Codewars_Valid_Parentheses\Codewars_Valid_Parentheses\obj\Debug\net7.0\Codewars_Valid_Parentheses.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Codewars_Valid_Parentheses\Codewars_Valid_Parentheses\obj\Debug\net7.0\Codewars_Valid_Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Codewars_Valid_Parentheses\Codewars_Valid_Parentheses\obj\Debug\net7.0\Codewars_Valid_Parentheses.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Codewars_Valid_Parentheses\Codewars_Valid_Parentheses\obj\Debug\net7.0\Codewars_Valid_Parentheses.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Codewars_Valid_Parentheses\Codewars_Valid_Parentheses\obj\Debug\net7.0\Codewars_Valid_Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Codewars_Valid_Parentheses\Codewars_Valid_Parentheses\obj\Debug\net7.0\Codewars_Valid_Parentheses.dll
+C:\Users\dj_ar\source\repos\Codewars_Valid_Parentheses\Codewars_Valid_Parentheses\obj\Debug\net7.0\refint\Codewars_Valid_Parentheses.dll
+C:\Users\dj_ar\source\repos\Codewars_Valid_Parentheses\Codewars_Valid_Parentheses\obj\Debug\net7.0\Codewars_Valid_Parentheses.pdb
+C:\Users\dj_ar\source\repos\Codewars_Valid_Parentheses\Codewars_Valid_Parentheses\obj\Debug\net7.0\Codewars_Valid_Parentheses.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Codewars_Valid_Parentheses\Codewars_Valid_Parentheses\obj\Debug\net7.0\ref\Codewars_Valid_Parentheses.dll

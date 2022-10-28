@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Codaza_Exchange_Example/1.0.0": {
+        "runtime": {
+          "Codaza_Exchange_Example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Codaza_Exchange_Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

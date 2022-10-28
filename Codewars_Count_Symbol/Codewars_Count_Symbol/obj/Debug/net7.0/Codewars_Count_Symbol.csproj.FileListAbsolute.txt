@@ -1,0 +1,17 @@
+C:\Users\dj_ar\source\repos\Codewars_Count_Symbol\Codewars_Count_Symbol\obj\Debug\net7.0\Codewars_Count_Symbol.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Codewars_Count_Symbol\Codewars_Count_Symbol\obj\Debug\net7.0\Codewars_Count_Symbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Codewars_Count_Symbol\Codewars_Count_Symbol\obj\Debug\net7.0\Codewars_Count_Symbol.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Codewars_Count_Symbol\Codewars_Count_Symbol\obj\Debug\net7.0\Codewars_Count_Symbol.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Codewars_Count_Symbol\Codewars_Count_Symbol\obj\Debug\net7.0\Codewars_Count_Symbol.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Codewars_Count_Symbol\Codewars_Count_Symbol\bin\Debug\net7.0\Codewars_Count_Symbol.exe
+C:\Users\dj_ar\source\repos\Codewars_Count_Symbol\Codewars_Count_Symbol\bin\Debug\net7.0\Codewars_Count_Symbol.deps.json
+C:\Users\dj_ar\source\repos\Codewars_Count_Symbol\Codewars_Count_Symbol\bin\Debug\net7.0\Codewars_Count_Symbol.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Codewars_Count_Symbol\Codewars_Count_Symbol\bin\Debug\net7.0\Codewars_Count_Symbol.dll
+C:\Users\dj_ar\source\repos\Codewars_Count_Symbol\Codewars_Count_Symbol\bin\Debug\net7.0\Codewars_Count_Symbol.pdb
+C:\Users\dj_ar\source\repos\Codewars_Count_Symbol\Codewars_Count_Symbol\obj\Debug\net7.0\Codewars_Count_Symbol.dll
+C:\Users\dj_ar\source\repos\Codewars_Count_Symbol\Codewars_Count_Symbol\obj\Debug\net7.0\refint\Codewars_Count_Symbol.dll
+C:\Users\dj_ar\source\repos\Codewars_Count_Symbol\Codewars_Count_Symbol\obj\Debug\net7.0\Codewars_Count_Symbol.pdb
+C:\Users\dj_ar\source\repos\Codewars_Count_Symbol\Codewars_Count_Symbol\obj\Debug\net7.0\Codewars_Count_Symbol.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Codewars_Count_Symbol\Codewars_Count_Symbol\obj\Debug\net7.0\ref\Codewars_Count_Symbol.dll
+C:\Users\dj_ar\source\repos\Codewars_Count_Symbol\Codewars_Count_Symbol\bin\Debug\net7.0\xunit.assert.dll
+C:\Users\dj_ar\source\repos\Codewars_Count_Symbol\Codewars_Count_Symbol\obj\Debug\net7.0\Codewars_Count_Symbol.csproj.CopyComplete

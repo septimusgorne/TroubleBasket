@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\StockOnliner\StockOnliner\bin\Debug\net7.0\StockOnliner.exe
+C:\Users\dj_ar\source\repos\StockOnliner\StockOnliner\bin\Debug\net7.0\StockOnliner.deps.json
+C:\Users\dj_ar\source\repos\StockOnliner\StockOnliner\bin\Debug\net7.0\StockOnliner.runtimeconfig.json
+C:\Users\dj_ar\source\repos\StockOnliner\StockOnliner\bin\Debug\net7.0\StockOnliner.dll
+C:\Users\dj_ar\source\repos\StockOnliner\StockOnliner\bin\Debug\net7.0\StockOnliner.pdb
+C:\Users\dj_ar\source\repos\StockOnliner\StockOnliner\obj\Debug\net7.0\StockOnliner.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\StockOnliner\StockOnliner\obj\Debug\net7.0\StockOnliner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\StockOnliner\StockOnliner\obj\Debug\net7.0\StockOnliner.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\StockOnliner\StockOnliner\obj\Debug\net7.0\StockOnliner.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\StockOnliner\StockOnliner\obj\Debug\net7.0\StockOnliner.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\StockOnliner\StockOnliner\obj\Debug\net7.0\StockOnliner.dll
+C:\Users\dj_ar\source\repos\StockOnliner\StockOnliner\obj\Debug\net7.0\refint\StockOnliner.dll
+C:\Users\dj_ar\source\repos\StockOnliner\StockOnliner\obj\Debug\net7.0\StockOnliner.pdb
+C:\Users\dj_ar\source\repos\StockOnliner\StockOnliner\obj\Debug\net7.0\StockOnliner.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\StockOnliner\StockOnliner\obj\Debug\net7.0\ref\StockOnliner.dll

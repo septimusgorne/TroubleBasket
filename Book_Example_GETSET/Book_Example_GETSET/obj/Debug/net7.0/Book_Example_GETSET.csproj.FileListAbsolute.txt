@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Book_Example_GETSET\Book_Example_GETSET\bin\Debug\net7.0\Book_Example_GETSET.exe
+C:\Users\dj_ar\source\repos\Book_Example_GETSET\Book_Example_GETSET\bin\Debug\net7.0\Book_Example_GETSET.deps.json
+C:\Users\dj_ar\source\repos\Book_Example_GETSET\Book_Example_GETSET\bin\Debug\net7.0\Book_Example_GETSET.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Book_Example_GETSET\Book_Example_GETSET\bin\Debug\net7.0\Book_Example_GETSET.dll
+C:\Users\dj_ar\source\repos\Book_Example_GETSET\Book_Example_GETSET\bin\Debug\net7.0\Book_Example_GETSET.pdb
+C:\Users\dj_ar\source\repos\Book_Example_GETSET\Book_Example_GETSET\obj\Debug\net7.0\Book_Example_GETSET.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Book_Example_GETSET\Book_Example_GETSET\obj\Debug\net7.0\Book_Example_GETSET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Book_Example_GETSET\Book_Example_GETSET\obj\Debug\net7.0\Book_Example_GETSET.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Book_Example_GETSET\Book_Example_GETSET\obj\Debug\net7.0\Book_Example_GETSET.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Book_Example_GETSET\Book_Example_GETSET\obj\Debug\net7.0\Book_Example_GETSET.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Book_Example_GETSET\Book_Example_GETSET\obj\Debug\net7.0\Book_Example_GETSET.dll
+C:\Users\dj_ar\source\repos\Book_Example_GETSET\Book_Example_GETSET\obj\Debug\net7.0\refint\Book_Example_GETSET.dll
+C:\Users\dj_ar\source\repos\Book_Example_GETSET\Book_Example_GETSET\obj\Debug\net7.0\Book_Example_GETSET.pdb
+C:\Users\dj_ar\source\repos\Book_Example_GETSET\Book_Example_GETSET\obj\Debug\net7.0\Book_Example_GETSET.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Book_Example_GETSET\Book_Example_GETSET\obj\Debug\net7.0\ref\Book_Example_GETSET.dll

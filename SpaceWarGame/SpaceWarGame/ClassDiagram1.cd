@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SpaceWarGame.Menu.Exit" Collapsed="true">
+    <Position X="11.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Menu\Exit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWarGame.Menu.MenuItem" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Menu\MenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWarGame.Menu.StartResume" Collapsed="true">
+    <Position X="13.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Menu\StartResume.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWarGame.AlienMasterShip" Collapsed="true">
+    <Position X="17.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AlienMasterShip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWarGame.AlienShip" Collapsed="true">
+    <Position X="19.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIIAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAg=</HashCode>
+      <FileName>AlienShip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWarGame.Cursor" Collapsed="true">
+    <Position X="21" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAEAAAABAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Cursor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWarGame.DieHardAlien" Collapsed="true">
+    <Position X="19.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DieHardAlien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWarGame.GameInformation" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>GameInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWarGame.GameObject" Collapsed="true">
+    <Position X="15.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAIAAAAKAAABAQAAAAAAAQEABAAAAAAIAAAAABEAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SpaceWarGame.Gift" Collapsed="true">
+    <Position X="15.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gift.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWarGame.GiftLife" Collapsed="true">
+    <Position X="14.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GiftLife.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWarGame.GiftPoints" Collapsed="true">
+    <Position X="15.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GiftPoints.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWarGame.HiveShip" Collapsed="true">
+    <Position X="22" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HiveShip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWarGame.Lifes" Collapsed="true">
+    <Position X="8" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lifes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWarGame.MovingObject" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAAACAAAAAAAAABAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>MovingObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWarGame.PlayerShip" Collapsed="true">
+    <Position X="23.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAQIIAAAgAAAAAAAAAAABAAAAIQIAAAAAAAAA=</HashCode>
+      <FileName>PlayerShip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWarGame.Projectile" Collapsed="true">
+    <Position X="13.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWarGame.Score" Collapsed="true">
+    <Position X="9.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceWarGame.Wall" Collapsed="true">
+    <Position X="22.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

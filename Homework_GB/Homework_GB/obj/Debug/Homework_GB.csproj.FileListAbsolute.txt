@@ -1,0 +1,8 @@
+C:\Users\dj_ar\source\repos\Homework_GB\Homework_GB\bin\Debug\Homework_GB.exe.config
+C:\Users\dj_ar\source\repos\Homework_GB\Homework_GB\bin\Debug\Homework_GB.exe
+C:\Users\dj_ar\source\repos\Homework_GB\Homework_GB\bin\Debug\Homework_GB.pdb
+C:\Users\dj_ar\source\repos\Homework_GB\Homework_GB\obj\Debug\Homework_GB.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Homework_GB\Homework_GB\obj\Debug\Homework_GB.csproj.SuggestedBindingRedirects.cache
+C:\Users\dj_ar\source\repos\Homework_GB\Homework_GB\obj\Debug\Homework_GB.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Homework_GB\Homework_GB\obj\Debug\Homework_GB.exe
+C:\Users\dj_ar\source\repos\Homework_GB\Homework_GB\obj\Debug\Homework_GB.pdb

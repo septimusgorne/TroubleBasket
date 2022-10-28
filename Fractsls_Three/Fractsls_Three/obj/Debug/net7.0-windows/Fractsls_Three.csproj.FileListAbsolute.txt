@@ -1,0 +1,17 @@
+C:\Users\dj_ar\source\repos\Fractsls_Three\Fractsls_Three\bin\Debug\net7.0-windows\Fractsls_Three.exe
+C:\Users\dj_ar\source\repos\Fractsls_Three\Fractsls_Three\bin\Debug\net7.0-windows\Fractsls_Three.deps.json
+C:\Users\dj_ar\source\repos\Fractsls_Three\Fractsls_Three\bin\Debug\net7.0-windows\Fractsls_Three.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Fractsls_Three\Fractsls_Three\bin\Debug\net7.0-windows\Fractsls_Three.dll
+C:\Users\dj_ar\source\repos\Fractsls_Three\Fractsls_Three\bin\Debug\net7.0-windows\Fractsls_Three.pdb
+C:\Users\dj_ar\source\repos\Fractsls_Three\Fractsls_Three\obj\Debug\net7.0-windows\Fractsls_Three.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Fractsls_Three\Fractsls_Three\obj\Debug\net7.0-windows\Fractsls_Three.Form1.resources
+C:\Users\dj_ar\source\repos\Fractsls_Three\Fractsls_Three\obj\Debug\net7.0-windows\Fractsls_Three.csproj.GenerateResource.cache
+C:\Users\dj_ar\source\repos\Fractsls_Three\Fractsls_Three\obj\Debug\net7.0-windows\Fractsls_Three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Fractsls_Three\Fractsls_Three\obj\Debug\net7.0-windows\Fractsls_Three.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Fractsls_Three\Fractsls_Three\obj\Debug\net7.0-windows\Fractsls_Three.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Fractsls_Three\Fractsls_Three\obj\Debug\net7.0-windows\Fractsls_Three.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Fractsls_Three\Fractsls_Three\obj\Debug\net7.0-windows\Fractsls_Three.dll
+C:\Users\dj_ar\source\repos\Fractsls_Three\Fractsls_Three\obj\Debug\net7.0-windows\refint\Fractsls_Three.dll
+C:\Users\dj_ar\source\repos\Fractsls_Three\Fractsls_Three\obj\Debug\net7.0-windows\Fractsls_Three.pdb
+C:\Users\dj_ar\source\repos\Fractsls_Three\Fractsls_Three\obj\Debug\net7.0-windows\Fractsls_Three.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Fractsls_Three\Fractsls_Three\obj\Debug\net7.0-windows\ref\Fractsls_Three.dll

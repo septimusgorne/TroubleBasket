@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\HaveADonuteFun.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\HaveADonuteFun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\HaveADonuteFun.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\HaveADonuteFun.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\HaveADonuteFun.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\bin\Debug\net7.0\HaveADonuteFun.exe
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\bin\Debug\net7.0\HaveADonuteFun.deps.json
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\bin\Debug\net7.0\HaveADonuteFun.runtimeconfig.json
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\bin\Debug\net7.0\HaveADonuteFun.dll
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\bin\Debug\net7.0\HaveADonuteFun.pdb
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\HaveADonuteFun.dll
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\refint\HaveADonuteFun.dll
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\HaveADonuteFun.pdb
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\HaveADonuteFun.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\HaveADonate\HaveADonateFun\obj\Debug\net7.0\ref\HaveADonuteFun.dll

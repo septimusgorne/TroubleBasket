@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ExampleDelegateConsole.exe
+C:\Users\dj_ar\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ExampleDelegateConsole.deps.json
+C:\Users\dj_ar\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ExampleDelegateConsole.runtimeconfig.json
+C:\Users\dj_ar\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ExampleDelegateConsole.dll
+C:\Users\dj_ar\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ExampleDelegateConsole.pdb
+C:\Users\dj_ar\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ExampleDelegateConsole.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ExampleDelegateConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ExampleDelegateConsole.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ExampleDelegateConsole.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ExampleDelegateConsole.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ExampleDelegateConsole.dll
+C:\Users\dj_ar\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\refint\ExampleDelegateConsole.dll
+C:\Users\dj_ar\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ExampleDelegateConsole.pdb
+C:\Users\dj_ar\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ExampleDelegateConsole.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ref\ExampleDelegateConsole.dll

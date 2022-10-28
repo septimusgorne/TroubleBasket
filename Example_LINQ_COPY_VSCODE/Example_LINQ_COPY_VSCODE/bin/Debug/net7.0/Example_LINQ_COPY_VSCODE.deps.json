@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Example_LINQ_COPY_VSCODE/1.0.0": {
+        "runtime": {
+          "Example_LINQ_COPY_VSCODE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example_LINQ_COPY_VSCODE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

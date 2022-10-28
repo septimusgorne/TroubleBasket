@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\GB_EXAMPLE\GB_EXAMPLE\bin\Debug\net7.0\GB_EXAMPLE.exe
+C:\Users\dj_ar\source\repos\GB_EXAMPLE\GB_EXAMPLE\bin\Debug\net7.0\GB_EXAMPLE.deps.json
+C:\Users\dj_ar\source\repos\GB_EXAMPLE\GB_EXAMPLE\bin\Debug\net7.0\GB_EXAMPLE.runtimeconfig.json
+C:\Users\dj_ar\source\repos\GB_EXAMPLE\GB_EXAMPLE\bin\Debug\net7.0\GB_EXAMPLE.dll
+C:\Users\dj_ar\source\repos\GB_EXAMPLE\GB_EXAMPLE\bin\Debug\net7.0\GB_EXAMPLE.pdb
+C:\Users\dj_ar\source\repos\GB_EXAMPLE\GB_EXAMPLE\obj\Debug\net7.0\GB_EXAMPLE.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\GB_EXAMPLE\GB_EXAMPLE\obj\Debug\net7.0\GB_EXAMPLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\GB_EXAMPLE\GB_EXAMPLE\obj\Debug\net7.0\GB_EXAMPLE.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\GB_EXAMPLE\GB_EXAMPLE\obj\Debug\net7.0\GB_EXAMPLE.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\GB_EXAMPLE\GB_EXAMPLE\obj\Debug\net7.0\GB_EXAMPLE.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\GB_EXAMPLE\GB_EXAMPLE\obj\Debug\net7.0\GB_EXAMPLE.dll
+C:\Users\dj_ar\source\repos\GB_EXAMPLE\GB_EXAMPLE\obj\Debug\net7.0\refint\GB_EXAMPLE.dll
+C:\Users\dj_ar\source\repos\GB_EXAMPLE\GB_EXAMPLE\obj\Debug\net7.0\GB_EXAMPLE.pdb
+C:\Users\dj_ar\source\repos\GB_EXAMPLE\GB_EXAMPLE\obj\Debug\net7.0\GB_EXAMPLE.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\GB_EXAMPLE\GB_EXAMPLE\obj\Debug\net7.0\ref\GB_EXAMPLE.dll

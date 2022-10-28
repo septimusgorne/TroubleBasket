@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Line_search_Example\Line_search_Example\bin\Debug\net7.0\Line_search_Example.exe
+C:\Users\dj_ar\source\repos\Line_search_Example\Line_search_Example\bin\Debug\net7.0\Line_search_Example.deps.json
+C:\Users\dj_ar\source\repos\Line_search_Example\Line_search_Example\bin\Debug\net7.0\Line_search_Example.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Line_search_Example\Line_search_Example\bin\Debug\net7.0\Line_search_Example.dll
+C:\Users\dj_ar\source\repos\Line_search_Example\Line_search_Example\bin\Debug\net7.0\Line_search_Example.pdb
+C:\Users\dj_ar\source\repos\Line_search_Example\Line_search_Example\obj\Debug\net7.0\Line_search_Example.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Line_search_Example\Line_search_Example\obj\Debug\net7.0\Line_search_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Line_search_Example\Line_search_Example\obj\Debug\net7.0\Line_search_Example.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Line_search_Example\Line_search_Example\obj\Debug\net7.0\Line_search_Example.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Line_search_Example\Line_search_Example\obj\Debug\net7.0\Line_search_Example.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Line_search_Example\Line_search_Example\obj\Debug\net7.0\Line_search_Example.dll
+C:\Users\dj_ar\source\repos\Line_search_Example\Line_search_Example\obj\Debug\net7.0\refint\Line_search_Example.dll
+C:\Users\dj_ar\source\repos\Line_search_Example\Line_search_Example\obj\Debug\net7.0\Line_search_Example.pdb
+C:\Users\dj_ar\source\repos\Line_search_Example\Line_search_Example\obj\Debug\net7.0\Line_search_Example.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Line_search_Example\Line_search_Example\obj\Debug\net7.0\ref\Line_search_Example.dll

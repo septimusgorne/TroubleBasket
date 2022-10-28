@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Sort_Jump_TryAgainExample\Sort_Jump_TryAgainExample\bin\Debug\net7.0\Sort_Jump_TryAgainExample.exe
+C:\Users\dj_ar\source\repos\Sort_Jump_TryAgainExample\Sort_Jump_TryAgainExample\bin\Debug\net7.0\Sort_Jump_TryAgainExample.deps.json
+C:\Users\dj_ar\source\repos\Sort_Jump_TryAgainExample\Sort_Jump_TryAgainExample\bin\Debug\net7.0\Sort_Jump_TryAgainExample.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Sort_Jump_TryAgainExample\Sort_Jump_TryAgainExample\bin\Debug\net7.0\Sort_Jump_TryAgainExample.dll
+C:\Users\dj_ar\source\repos\Sort_Jump_TryAgainExample\Sort_Jump_TryAgainExample\bin\Debug\net7.0\Sort_Jump_TryAgainExample.pdb
+C:\Users\dj_ar\source\repos\Sort_Jump_TryAgainExample\Sort_Jump_TryAgainExample\obj\Debug\net7.0\Sort_Jump_TryAgainExample.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Sort_Jump_TryAgainExample\Sort_Jump_TryAgainExample\obj\Debug\net7.0\Sort_Jump_TryAgainExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Sort_Jump_TryAgainExample\Sort_Jump_TryAgainExample\obj\Debug\net7.0\Sort_Jump_TryAgainExample.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Sort_Jump_TryAgainExample\Sort_Jump_TryAgainExample\obj\Debug\net7.0\Sort_Jump_TryAgainExample.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Sort_Jump_TryAgainExample\Sort_Jump_TryAgainExample\obj\Debug\net7.0\Sort_Jump_TryAgainExample.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Sort_Jump_TryAgainExample\Sort_Jump_TryAgainExample\obj\Debug\net7.0\Sort_Jump_TryAgainExample.dll
+C:\Users\dj_ar\source\repos\Sort_Jump_TryAgainExample\Sort_Jump_TryAgainExample\obj\Debug\net7.0\refint\Sort_Jump_TryAgainExample.dll
+C:\Users\dj_ar\source\repos\Sort_Jump_TryAgainExample\Sort_Jump_TryAgainExample\obj\Debug\net7.0\Sort_Jump_TryAgainExample.pdb
+C:\Users\dj_ar\source\repos\Sort_Jump_TryAgainExample\Sort_Jump_TryAgainExample\obj\Debug\net7.0\Sort_Jump_TryAgainExample.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Sort_Jump_TryAgainExample\Sort_Jump_TryAgainExample\obj\Debug\net7.0\ref\Sort_Jump_TryAgainExample.dll

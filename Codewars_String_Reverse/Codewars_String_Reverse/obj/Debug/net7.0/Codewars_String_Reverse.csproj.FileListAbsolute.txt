@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Codewars_String_Reverse\Codewars_String_Reverse\obj\Debug\net7.0\Codewars_String_Reverse.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Codewars_String_Reverse\Codewars_String_Reverse\obj\Debug\net7.0\Codewars_String_Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Codewars_String_Reverse\Codewars_String_Reverse\obj\Debug\net7.0\Codewars_String_Reverse.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Codewars_String_Reverse\Codewars_String_Reverse\obj\Debug\net7.0\Codewars_String_Reverse.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Codewars_String_Reverse\Codewars_String_Reverse\obj\Debug\net7.0\Codewars_String_Reverse.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Codewars_String_Reverse\Codewars_String_Reverse\bin\Debug\net7.0\Codewars_String_Reverse.exe
+C:\Users\dj_ar\source\repos\Codewars_String_Reverse\Codewars_String_Reverse\bin\Debug\net7.0\Codewars_String_Reverse.deps.json
+C:\Users\dj_ar\source\repos\Codewars_String_Reverse\Codewars_String_Reverse\bin\Debug\net7.0\Codewars_String_Reverse.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Codewars_String_Reverse\Codewars_String_Reverse\bin\Debug\net7.0\Codewars_String_Reverse.dll
+C:\Users\dj_ar\source\repos\Codewars_String_Reverse\Codewars_String_Reverse\bin\Debug\net7.0\Codewars_String_Reverse.pdb
+C:\Users\dj_ar\source\repos\Codewars_String_Reverse\Codewars_String_Reverse\obj\Debug\net7.0\Codewars_String_Reverse.dll
+C:\Users\dj_ar\source\repos\Codewars_String_Reverse\Codewars_String_Reverse\obj\Debug\net7.0\refint\Codewars_String_Reverse.dll
+C:\Users\dj_ar\source\repos\Codewars_String_Reverse\Codewars_String_Reverse\obj\Debug\net7.0\Codewars_String_Reverse.pdb
+C:\Users\dj_ar\source\repos\Codewars_String_Reverse\Codewars_String_Reverse\obj\Debug\net7.0\Codewars_String_Reverse.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Codewars_String_Reverse\Codewars_String_Reverse\obj\Debug\net7.0\ref\Codewars_String_Reverse.dll

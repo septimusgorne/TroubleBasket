@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Example_LINQ_COPY_VSCODE\Example_LINQ_COPY_VSCODE\obj\Debug\net7.0\Example_LINQ_COPY_VSCODE.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Example_LINQ_COPY_VSCODE\Example_LINQ_COPY_VSCODE\obj\Debug\net7.0\Example_LINQ_COPY_VSCODE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Example_LINQ_COPY_VSCODE\Example_LINQ_COPY_VSCODE\obj\Debug\net7.0\Example_LINQ_COPY_VSCODE.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Example_LINQ_COPY_VSCODE\Example_LINQ_COPY_VSCODE\obj\Debug\net7.0\Example_LINQ_COPY_VSCODE.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Example_LINQ_COPY_VSCODE\Example_LINQ_COPY_VSCODE\obj\Debug\net7.0\Example_LINQ_COPY_VSCODE.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Example_LINQ_COPY_VSCODE\Example_LINQ_COPY_VSCODE\bin\Debug\net7.0\Example_LINQ_COPY_VSCODE.exe
+C:\Users\dj_ar\source\repos\Example_LINQ_COPY_VSCODE\Example_LINQ_COPY_VSCODE\bin\Debug\net7.0\Example_LINQ_COPY_VSCODE.deps.json
+C:\Users\dj_ar\source\repos\Example_LINQ_COPY_VSCODE\Example_LINQ_COPY_VSCODE\bin\Debug\net7.0\Example_LINQ_COPY_VSCODE.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Example_LINQ_COPY_VSCODE\Example_LINQ_COPY_VSCODE\bin\Debug\net7.0\Example_LINQ_COPY_VSCODE.dll
+C:\Users\dj_ar\source\repos\Example_LINQ_COPY_VSCODE\Example_LINQ_COPY_VSCODE\bin\Debug\net7.0\Example_LINQ_COPY_VSCODE.pdb
+C:\Users\dj_ar\source\repos\Example_LINQ_COPY_VSCODE\Example_LINQ_COPY_VSCODE\obj\Debug\net7.0\Example_LINQ_COPY_VSCODE.dll
+C:\Users\dj_ar\source\repos\Example_LINQ_COPY_VSCODE\Example_LINQ_COPY_VSCODE\obj\Debug\net7.0\refint\Example_LINQ_COPY_VSCODE.dll
+C:\Users\dj_ar\source\repos\Example_LINQ_COPY_VSCODE\Example_LINQ_COPY_VSCODE\obj\Debug\net7.0\Example_LINQ_COPY_VSCODE.pdb
+C:\Users\dj_ar\source\repos\Example_LINQ_COPY_VSCODE\Example_LINQ_COPY_VSCODE\obj\Debug\net7.0\Example_LINQ_COPY_VSCODE.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Example_LINQ_COPY_VSCODE\Example_LINQ_COPY_VSCODE\obj\Debug\net7.0\ref\Example_LINQ_COPY_VSCODE.dll

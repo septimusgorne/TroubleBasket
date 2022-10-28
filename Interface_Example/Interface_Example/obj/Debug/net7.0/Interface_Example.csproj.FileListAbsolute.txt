@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Interface_Example\Interface_Example\bin\Debug\net7.0\Interface_Example.exe
+C:\Users\dj_ar\source\repos\Interface_Example\Interface_Example\bin\Debug\net7.0\Interface_Example.deps.json
+C:\Users\dj_ar\source\repos\Interface_Example\Interface_Example\bin\Debug\net7.0\Interface_Example.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Interface_Example\Interface_Example\bin\Debug\net7.0\Interface_Example.dll
+C:\Users\dj_ar\source\repos\Interface_Example\Interface_Example\bin\Debug\net7.0\Interface_Example.pdb
+C:\Users\dj_ar\source\repos\Interface_Example\Interface_Example\obj\Debug\net7.0\Interface_Example.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Interface_Example\Interface_Example\obj\Debug\net7.0\Interface_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Interface_Example\Interface_Example\obj\Debug\net7.0\Interface_Example.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Interface_Example\Interface_Example\obj\Debug\net7.0\Interface_Example.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Interface_Example\Interface_Example\obj\Debug\net7.0\Interface_Example.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Interface_Example\Interface_Example\obj\Debug\net7.0\Interface_Example.dll
+C:\Users\dj_ar\source\repos\Interface_Example\Interface_Example\obj\Debug\net7.0\refint\Interface_Example.dll
+C:\Users\dj_ar\source\repos\Interface_Example\Interface_Example\obj\Debug\net7.0\Interface_Example.pdb
+C:\Users\dj_ar\source\repos\Interface_Example\Interface_Example\obj\Debug\net7.0\Interface_Example.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Interface_Example\Interface_Example\obj\Debug\net7.0\ref\Interface_Example.dll

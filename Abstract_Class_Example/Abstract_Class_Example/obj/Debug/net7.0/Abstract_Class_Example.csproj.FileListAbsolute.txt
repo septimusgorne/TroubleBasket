@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Abstract_Class_Example\Abstract_Class_Example\bin\Debug\net7.0\Abstract_Class_Example.exe
+C:\Users\dj_ar\source\repos\Abstract_Class_Example\Abstract_Class_Example\bin\Debug\net7.0\Abstract_Class_Example.deps.json
+C:\Users\dj_ar\source\repos\Abstract_Class_Example\Abstract_Class_Example\bin\Debug\net7.0\Abstract_Class_Example.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Abstract_Class_Example\Abstract_Class_Example\bin\Debug\net7.0\Abstract_Class_Example.dll
+C:\Users\dj_ar\source\repos\Abstract_Class_Example\Abstract_Class_Example\bin\Debug\net7.0\Abstract_Class_Example.pdb
+C:\Users\dj_ar\source\repos\Abstract_Class_Example\Abstract_Class_Example\obj\Debug\net7.0\Abstract_Class_Example.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Abstract_Class_Example\Abstract_Class_Example\obj\Debug\net7.0\Abstract_Class_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Abstract_Class_Example\Abstract_Class_Example\obj\Debug\net7.0\Abstract_Class_Example.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Abstract_Class_Example\Abstract_Class_Example\obj\Debug\net7.0\Abstract_Class_Example.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Abstract_Class_Example\Abstract_Class_Example\obj\Debug\net7.0\Abstract_Class_Example.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Abstract_Class_Example\Abstract_Class_Example\obj\Debug\net7.0\Abstract_Class_Example.dll
+C:\Users\dj_ar\source\repos\Abstract_Class_Example\Abstract_Class_Example\obj\Debug\net7.0\refint\Abstract_Class_Example.dll
+C:\Users\dj_ar\source\repos\Abstract_Class_Example\Abstract_Class_Example\obj\Debug\net7.0\Abstract_Class_Example.pdb
+C:\Users\dj_ar\source\repos\Abstract_Class_Example\Abstract_Class_Example\obj\Debug\net7.0\Abstract_Class_Example.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Abstract_Class_Example\Abstract_Class_Example\obj\Debug\net7.0\ref\Abstract_Class_Example.dll

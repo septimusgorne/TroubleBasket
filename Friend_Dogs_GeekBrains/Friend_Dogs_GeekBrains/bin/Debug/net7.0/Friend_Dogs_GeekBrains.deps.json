@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Friend_Dogs_GeekBrains/1.0.0": {
+        "runtime": {
+          "Friend_Dogs_GeekBrains.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Friend_Dogs_GeekBrains/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

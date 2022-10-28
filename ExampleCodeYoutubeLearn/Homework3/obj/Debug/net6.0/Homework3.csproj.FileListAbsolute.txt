@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\Homework3\obj\Debug\net6.0\Homework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\Homework3\obj\Debug\net6.0\Homework3.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\Homework3\obj\Debug\net6.0\Homework3.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\Homework3\obj\Debug\net6.0\Homework3.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\Homework3\bin\Debug\net6.0\Homework3.exe
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\Homework3\bin\Debug\net6.0\Homework3.deps.json
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\Homework3\bin\Debug\net6.0\Homework3.runtimeconfig.json
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\Homework3\bin\Debug\net6.0\Homework3.dll
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\Homework3\bin\Debug\net6.0\Homework3.pdb
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\Homework3\obj\Debug\net6.0\Homework3.dll
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\Homework3\obj\Debug\net6.0\ref\Homework3.dll
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\Homework3\obj\Debug\net6.0\Homework3.pdb
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\Homework3\obj\Debug\net6.0\Homework3.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\Homework3\obj\Debug\net6.0\Homework3.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\ExampleCodeYoutubeLearn\Homework3\obj\Debug\net6.0\refint\Homework3.dll

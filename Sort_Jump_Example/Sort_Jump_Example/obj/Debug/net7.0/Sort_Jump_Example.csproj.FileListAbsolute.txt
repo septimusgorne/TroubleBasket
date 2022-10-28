@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Sort_Jump_Example\Sort_Jump_Example\bin\Debug\net7.0\Sort_Jump_Example.exe
+C:\Users\dj_ar\source\repos\Sort_Jump_Example\Sort_Jump_Example\bin\Debug\net7.0\Sort_Jump_Example.deps.json
+C:\Users\dj_ar\source\repos\Sort_Jump_Example\Sort_Jump_Example\bin\Debug\net7.0\Sort_Jump_Example.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Sort_Jump_Example\Sort_Jump_Example\bin\Debug\net7.0\Sort_Jump_Example.dll
+C:\Users\dj_ar\source\repos\Sort_Jump_Example\Sort_Jump_Example\bin\Debug\net7.0\Sort_Jump_Example.pdb
+C:\Users\dj_ar\source\repos\Sort_Jump_Example\Sort_Jump_Example\obj\Debug\net7.0\Sort_Jump_Example.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Sort_Jump_Example\Sort_Jump_Example\obj\Debug\net7.0\Sort_Jump_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Sort_Jump_Example\Sort_Jump_Example\obj\Debug\net7.0\Sort_Jump_Example.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Sort_Jump_Example\Sort_Jump_Example\obj\Debug\net7.0\Sort_Jump_Example.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Sort_Jump_Example\Sort_Jump_Example\obj\Debug\net7.0\Sort_Jump_Example.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Sort_Jump_Example\Sort_Jump_Example\obj\Debug\net7.0\Sort_Jump_Example.dll
+C:\Users\dj_ar\source\repos\Sort_Jump_Example\Sort_Jump_Example\obj\Debug\net7.0\refint\Sort_Jump_Example.dll
+C:\Users\dj_ar\source\repos\Sort_Jump_Example\Sort_Jump_Example\obj\Debug\net7.0\Sort_Jump_Example.pdb
+C:\Users\dj_ar\source\repos\Sort_Jump_Example\Sort_Jump_Example\obj\Debug\net7.0\Sort_Jump_Example.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Sort_Jump_Example\Sort_Jump_Example\obj\Debug\net7.0\ref\Sort_Jump_Example.dll

@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\LearnExampleCode\LearnExampleCode\bin\Debug\net7.0\LearnExampleCode.exe
+C:\Users\dj_ar\source\repos\LearnExampleCode\LearnExampleCode\bin\Debug\net7.0\LearnExampleCode.deps.json
+C:\Users\dj_ar\source\repos\LearnExampleCode\LearnExampleCode\bin\Debug\net7.0\LearnExampleCode.runtimeconfig.json
+C:\Users\dj_ar\source\repos\LearnExampleCode\LearnExampleCode\bin\Debug\net7.0\LearnExampleCode.dll
+C:\Users\dj_ar\source\repos\LearnExampleCode\LearnExampleCode\bin\Debug\net7.0\LearnExampleCode.pdb
+C:\Users\dj_ar\source\repos\LearnExampleCode\LearnExampleCode\obj\Debug\net7.0\LearnExampleCode.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\LearnExampleCode\LearnExampleCode\obj\Debug\net7.0\LearnExampleCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\LearnExampleCode\LearnExampleCode\obj\Debug\net7.0\LearnExampleCode.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\LearnExampleCode\LearnExampleCode\obj\Debug\net7.0\LearnExampleCode.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\LearnExampleCode\LearnExampleCode\obj\Debug\net7.0\LearnExampleCode.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\LearnExampleCode\LearnExampleCode\obj\Debug\net7.0\LearnExampleCode.dll
+C:\Users\dj_ar\source\repos\LearnExampleCode\LearnExampleCode\obj\Debug\net7.0\refint\LearnExampleCode.dll
+C:\Users\dj_ar\source\repos\LearnExampleCode\LearnExampleCode\obj\Debug\net7.0\LearnExampleCode.pdb
+C:\Users\dj_ar\source\repos\LearnExampleCode\LearnExampleCode\obj\Debug\net7.0\LearnExampleCode.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\LearnExampleCode\LearnExampleCode\obj\Debug\net7.0\ref\LearnExampleCode.dll

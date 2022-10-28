@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Bubble_Sort_Example\Bubble_Sort_Example\bin\Debug\net7.0\Bubble_Sort_Example.exe
+C:\Users\dj_ar\source\repos\Bubble_Sort_Example\Bubble_Sort_Example\bin\Debug\net7.0\Bubble_Sort_Example.deps.json
+C:\Users\dj_ar\source\repos\Bubble_Sort_Example\Bubble_Sort_Example\bin\Debug\net7.0\Bubble_Sort_Example.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Bubble_Sort_Example\Bubble_Sort_Example\bin\Debug\net7.0\Bubble_Sort_Example.dll
+C:\Users\dj_ar\source\repos\Bubble_Sort_Example\Bubble_Sort_Example\bin\Debug\net7.0\Bubble_Sort_Example.pdb
+C:\Users\dj_ar\source\repos\Bubble_Sort_Example\Bubble_Sort_Example\obj\Debug\net7.0\Bubble_Sort_Example.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Bubble_Sort_Example\Bubble_Sort_Example\obj\Debug\net7.0\Bubble_Sort_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Bubble_Sort_Example\Bubble_Sort_Example\obj\Debug\net7.0\Bubble_Sort_Example.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Bubble_Sort_Example\Bubble_Sort_Example\obj\Debug\net7.0\Bubble_Sort_Example.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Bubble_Sort_Example\Bubble_Sort_Example\obj\Debug\net7.0\Bubble_Sort_Example.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Bubble_Sort_Example\Bubble_Sort_Example\obj\Debug\net7.0\Bubble_Sort_Example.dll
+C:\Users\dj_ar\source\repos\Bubble_Sort_Example\Bubble_Sort_Example\obj\Debug\net7.0\refint\Bubble_Sort_Example.dll
+C:\Users\dj_ar\source\repos\Bubble_Sort_Example\Bubble_Sort_Example\obj\Debug\net7.0\Bubble_Sort_Example.pdb
+C:\Users\dj_ar\source\repos\Bubble_Sort_Example\Bubble_Sort_Example\obj\Debug\net7.0\Bubble_Sort_Example.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Bubble_Sort_Example\Bubble_Sort_Example\obj\Debug\net7.0\ref\Bubble_Sort_Example.dll

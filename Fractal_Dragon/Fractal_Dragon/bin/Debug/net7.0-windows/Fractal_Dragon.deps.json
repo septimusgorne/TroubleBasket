@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Fractal_Dragon/1.0.0": {
+        "runtime": {
+          "Fractal_Dragon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fractal_Dragon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

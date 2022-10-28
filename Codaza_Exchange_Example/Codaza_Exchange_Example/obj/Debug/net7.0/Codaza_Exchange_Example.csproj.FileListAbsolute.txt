@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Codaza_Exchange_Example\Codaza_Exchange_Example\bin\Debug\net7.0\Codaza_Exchange_Example.exe
+C:\Users\dj_ar\source\repos\Codaza_Exchange_Example\Codaza_Exchange_Example\bin\Debug\net7.0\Codaza_Exchange_Example.deps.json
+C:\Users\dj_ar\source\repos\Codaza_Exchange_Example\Codaza_Exchange_Example\bin\Debug\net7.0\Codaza_Exchange_Example.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Codaza_Exchange_Example\Codaza_Exchange_Example\bin\Debug\net7.0\Codaza_Exchange_Example.dll
+C:\Users\dj_ar\source\repos\Codaza_Exchange_Example\Codaza_Exchange_Example\bin\Debug\net7.0\Codaza_Exchange_Example.pdb
+C:\Users\dj_ar\source\repos\Codaza_Exchange_Example\Codaza_Exchange_Example\obj\Debug\net7.0\Codaza_Exchange_Example.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Codaza_Exchange_Example\Codaza_Exchange_Example\obj\Debug\net7.0\Codaza_Exchange_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Codaza_Exchange_Example\Codaza_Exchange_Example\obj\Debug\net7.0\Codaza_Exchange_Example.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Codaza_Exchange_Example\Codaza_Exchange_Example\obj\Debug\net7.0\Codaza_Exchange_Example.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Codaza_Exchange_Example\Codaza_Exchange_Example\obj\Debug\net7.0\Codaza_Exchange_Example.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Codaza_Exchange_Example\Codaza_Exchange_Example\obj\Debug\net7.0\Codaza_Exchange_Example.dll
+C:\Users\dj_ar\source\repos\Codaza_Exchange_Example\Codaza_Exchange_Example\obj\Debug\net7.0\refint\Codaza_Exchange_Example.dll
+C:\Users\dj_ar\source\repos\Codaza_Exchange_Example\Codaza_Exchange_Example\obj\Debug\net7.0\Codaza_Exchange_Example.pdb
+C:\Users\dj_ar\source\repos\Codaza_Exchange_Example\Codaza_Exchange_Example\obj\Debug\net7.0\Codaza_Exchange_Example.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Codaza_Exchange_Example\Codaza_Exchange_Example\obj\Debug\net7.0\ref\Codaza_Exchange_Example.dll

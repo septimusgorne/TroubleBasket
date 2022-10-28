@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Sort_for_Call\Sort_for_Call\bin\Debug\net7.0\Sort_for_Call.exe
+C:\Users\dj_ar\source\repos\Sort_for_Call\Sort_for_Call\bin\Debug\net7.0\Sort_for_Call.deps.json
+C:\Users\dj_ar\source\repos\Sort_for_Call\Sort_for_Call\bin\Debug\net7.0\Sort_for_Call.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Sort_for_Call\Sort_for_Call\bin\Debug\net7.0\Sort_for_Call.dll
+C:\Users\dj_ar\source\repos\Sort_for_Call\Sort_for_Call\bin\Debug\net7.0\Sort_for_Call.pdb
+C:\Users\dj_ar\source\repos\Sort_for_Call\Sort_for_Call\obj\Debug\net7.0\Sort_for_Call.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Sort_for_Call\Sort_for_Call\obj\Debug\net7.0\Sort_for_Call.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Sort_for_Call\Sort_for_Call\obj\Debug\net7.0\Sort_for_Call.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Sort_for_Call\Sort_for_Call\obj\Debug\net7.0\Sort_for_Call.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Sort_for_Call\Sort_for_Call\obj\Debug\net7.0\Sort_for_Call.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Sort_for_Call\Sort_for_Call\obj\Debug\net7.0\Sort_for_Call.dll
+C:\Users\dj_ar\source\repos\Sort_for_Call\Sort_for_Call\obj\Debug\net7.0\refint\Sort_for_Call.dll
+C:\Users\dj_ar\source\repos\Sort_for_Call\Sort_for_Call\obj\Debug\net7.0\Sort_for_Call.pdb
+C:\Users\dj_ar\source\repos\Sort_for_Call\Sort_for_Call\obj\Debug\net7.0\Sort_for_Call.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Sort_for_Call\Sort_for_Call\obj\Debug\net7.0\ref\Sort_for_Call.dll

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d6a79383-1ead-4359-ae41-8bc4f6a0e3e5": {
+      "ProjectGuid": "d6a79383-1ead-4359-ae41-8bc4f6a0e3e5",
+      "DisplayName": "ExampleCodeYoutubeLearn",
+      "ColorIndex": 0
+    },
+    "90278534-9647-47b5-bb2c-643600c04fc9": {
+      "ProjectGuid": "90278534-9647-47b5-bb2c-643600c04fc9",
+      "DisplayName": "Homework2",
+      "ColorIndex": 1
+    },
+    "89840f15-1541-405b-969e-fc4bcdff85d8": {
+      "ProjectGuid": "89840f15-1541-405b-969e-fc4bcdff85d8",
+      "DisplayName": "Homework3",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

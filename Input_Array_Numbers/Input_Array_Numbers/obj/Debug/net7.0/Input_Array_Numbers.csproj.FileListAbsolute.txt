@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Input_Array_Numbers\Input_Array_Numbers\bin\Debug\net7.0\Input_Array_Numbers.exe
+C:\Users\dj_ar\source\repos\Input_Array_Numbers\Input_Array_Numbers\bin\Debug\net7.0\Input_Array_Numbers.deps.json
+C:\Users\dj_ar\source\repos\Input_Array_Numbers\Input_Array_Numbers\bin\Debug\net7.0\Input_Array_Numbers.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Input_Array_Numbers\Input_Array_Numbers\bin\Debug\net7.0\Input_Array_Numbers.dll
+C:\Users\dj_ar\source\repos\Input_Array_Numbers\Input_Array_Numbers\bin\Debug\net7.0\Input_Array_Numbers.pdb
+C:\Users\dj_ar\source\repos\Input_Array_Numbers\Input_Array_Numbers\obj\Debug\net7.0\Input_Array_Numbers.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Input_Array_Numbers\Input_Array_Numbers\obj\Debug\net7.0\Input_Array_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Input_Array_Numbers\Input_Array_Numbers\obj\Debug\net7.0\Input_Array_Numbers.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Input_Array_Numbers\Input_Array_Numbers\obj\Debug\net7.0\Input_Array_Numbers.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Input_Array_Numbers\Input_Array_Numbers\obj\Debug\net7.0\Input_Array_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Input_Array_Numbers\Input_Array_Numbers\obj\Debug\net7.0\Input_Array_Numbers.dll
+C:\Users\dj_ar\source\repos\Input_Array_Numbers\Input_Array_Numbers\obj\Debug\net7.0\refint\Input_Array_Numbers.dll
+C:\Users\dj_ar\source\repos\Input_Array_Numbers\Input_Array_Numbers\obj\Debug\net7.0\Input_Array_Numbers.pdb
+C:\Users\dj_ar\source\repos\Input_Array_Numbers\Input_Array_Numbers\obj\Debug\net7.0\Input_Array_Numbers.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Input_Array_Numbers\Input_Array_Numbers\obj\Debug\net7.0\ref\Input_Array_Numbers.dll

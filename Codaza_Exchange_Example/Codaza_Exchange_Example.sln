@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codaza_Exchange_Example", "Codaza_Exchange_Example\Codaza_Exchange_Example.csproj", "{31436D1E-579D-4013-96BE-E0A29B787991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31436D1E-579D-4013-96BE-E0A29B787991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31436D1E-579D-4013-96BE-E0A29B787991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31436D1E-579D-4013-96BE-E0A29B787991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31436D1E-579D-4013-96BE-E0A29B787991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFF4B314-99DE-422F-B17C-8BE9C3C7A610}
+	EndGlobalSection
+EndGlobal

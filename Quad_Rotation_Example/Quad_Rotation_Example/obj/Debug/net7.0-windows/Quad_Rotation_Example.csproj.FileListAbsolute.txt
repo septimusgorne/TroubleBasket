@@ -1,0 +1,17 @@
+C:\Users\dj_ar\source\repos\Quad_Rotation_Example\Quad_Rotation_Example\bin\Debug\net7.0-windows\Quad_Rotation_Example.exe
+C:\Users\dj_ar\source\repos\Quad_Rotation_Example\Quad_Rotation_Example\bin\Debug\net7.0-windows\Quad_Rotation_Example.deps.json
+C:\Users\dj_ar\source\repos\Quad_Rotation_Example\Quad_Rotation_Example\bin\Debug\net7.0-windows\Quad_Rotation_Example.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Quad_Rotation_Example\Quad_Rotation_Example\bin\Debug\net7.0-windows\Quad_Rotation_Example.dll
+C:\Users\dj_ar\source\repos\Quad_Rotation_Example\Quad_Rotation_Example\bin\Debug\net7.0-windows\Quad_Rotation_Example.pdb
+C:\Users\dj_ar\source\repos\Quad_Rotation_Example\Quad_Rotation_Example\obj\Debug\net7.0-windows\Quad_Rotation_Example.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Quad_Rotation_Example\Quad_Rotation_Example\obj\Debug\net7.0-windows\Quad_Rotation_Example.Form1.resources
+C:\Users\dj_ar\source\repos\Quad_Rotation_Example\Quad_Rotation_Example\obj\Debug\net7.0-windows\Quad_Rotation_Example.csproj.GenerateResource.cache
+C:\Users\dj_ar\source\repos\Quad_Rotation_Example\Quad_Rotation_Example\obj\Debug\net7.0-windows\Quad_Rotation_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Quad_Rotation_Example\Quad_Rotation_Example\obj\Debug\net7.0-windows\Quad_Rotation_Example.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Quad_Rotation_Example\Quad_Rotation_Example\obj\Debug\net7.0-windows\Quad_Rotation_Example.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Quad_Rotation_Example\Quad_Rotation_Example\obj\Debug\net7.0-windows\Quad_Rotation_Example.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Quad_Rotation_Example\Quad_Rotation_Example\obj\Debug\net7.0-windows\Quad_Rotation_Example.dll
+C:\Users\dj_ar\source\repos\Quad_Rotation_Example\Quad_Rotation_Example\obj\Debug\net7.0-windows\refint\Quad_Rotation_Example.dll
+C:\Users\dj_ar\source\repos\Quad_Rotation_Example\Quad_Rotation_Example\obj\Debug\net7.0-windows\Quad_Rotation_Example.pdb
+C:\Users\dj_ar\source\repos\Quad_Rotation_Example\Quad_Rotation_Example\obj\Debug\net7.0-windows\Quad_Rotation_Example.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Quad_Rotation_Example\Quad_Rotation_Example\obj\Debug\net7.0-windows\ref\Quad_Rotation_Example.dll

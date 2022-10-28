@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Sort_Jump_TryAgainExample/1.0.0": {
+        "runtime": {
+          "Sort_Jump_TryAgainExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sort_Jump_TryAgainExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\dj_ar\source\repos\Codewars_Try_IPv4_address\Codewars_Try_IPv4_address\bin\Debug\net7.0\Codewars_Try_IPv4_address.exe
+C:\Users\dj_ar\source\repos\Codewars_Try_IPv4_address\Codewars_Try_IPv4_address\bin\Debug\net7.0\Codewars_Try_IPv4_address.deps.json
+C:\Users\dj_ar\source\repos\Codewars_Try_IPv4_address\Codewars_Try_IPv4_address\bin\Debug\net7.0\Codewars_Try_IPv4_address.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Codewars_Try_IPv4_address\Codewars_Try_IPv4_address\bin\Debug\net7.0\Codewars_Try_IPv4_address.dll
+C:\Users\dj_ar\source\repos\Codewars_Try_IPv4_address\Codewars_Try_IPv4_address\bin\Debug\net7.0\Codewars_Try_IPv4_address.pdb
+C:\Users\dj_ar\source\repos\Codewars_Try_IPv4_address\Codewars_Try_IPv4_address\bin\Debug\net7.0\nunit.framework.dll
+C:\Users\dj_ar\source\repos\Codewars_Try_IPv4_address\Codewars_Try_IPv4_address\obj\Debug\net7.0\Codewars_Try_IPv4_address.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Codewars_Try_IPv4_address\Codewars_Try_IPv4_address\obj\Debug\net7.0\Codewars_Try_IPv4_address.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Codewars_Try_IPv4_address\Codewars_Try_IPv4_address\obj\Debug\net7.0\Codewars_Try_IPv4_address.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Codewars_Try_IPv4_address\Codewars_Try_IPv4_address\obj\Debug\net7.0\Codewars_Try_IPv4_address.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Codewars_Try_IPv4_address\Codewars_Try_IPv4_address\obj\Debug\net7.0\Codewars_Try_IPv4_address.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Codewars_Try_IPv4_address\Codewars_Try_IPv4_address\obj\Debug\net7.0\Codewars_Try_IPv4_address.csproj.CopyComplete
+C:\Users\dj_ar\source\repos\Codewars_Try_IPv4_address\Codewars_Try_IPv4_address\obj\Debug\net7.0\Codewars_Try_IPv4_address.dll
+C:\Users\dj_ar\source\repos\Codewars_Try_IPv4_address\Codewars_Try_IPv4_address\obj\Debug\net7.0\refint\Codewars_Try_IPv4_address.dll
+C:\Users\dj_ar\source\repos\Codewars_Try_IPv4_address\Codewars_Try_IPv4_address\obj\Debug\net7.0\Codewars_Try_IPv4_address.pdb
+C:\Users\dj_ar\source\repos\Codewars_Try_IPv4_address\Codewars_Try_IPv4_address\obj\Debug\net7.0\Codewars_Try_IPv4_address.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Codewars_Try_IPv4_address\Codewars_Try_IPv4_address\obj\Debug\net7.0\ref\Codewars_Try_IPv4_address.dll

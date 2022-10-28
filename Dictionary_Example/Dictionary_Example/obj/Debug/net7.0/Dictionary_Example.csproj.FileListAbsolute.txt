@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Dictionary_Example\Dictionary_Example\bin\Debug\net7.0\Dictionary_Example.exe
+C:\Users\dj_ar\source\repos\Dictionary_Example\Dictionary_Example\bin\Debug\net7.0\Dictionary_Example.deps.json
+C:\Users\dj_ar\source\repos\Dictionary_Example\Dictionary_Example\bin\Debug\net7.0\Dictionary_Example.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Dictionary_Example\Dictionary_Example\bin\Debug\net7.0\Dictionary_Example.dll
+C:\Users\dj_ar\source\repos\Dictionary_Example\Dictionary_Example\bin\Debug\net7.0\Dictionary_Example.pdb
+C:\Users\dj_ar\source\repos\Dictionary_Example\Dictionary_Example\obj\Debug\net7.0\Dictionary_Example.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Dictionary_Example\Dictionary_Example\obj\Debug\net7.0\Dictionary_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Dictionary_Example\Dictionary_Example\obj\Debug\net7.0\Dictionary_Example.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Dictionary_Example\Dictionary_Example\obj\Debug\net7.0\Dictionary_Example.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Dictionary_Example\Dictionary_Example\obj\Debug\net7.0\Dictionary_Example.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Dictionary_Example\Dictionary_Example\obj\Debug\net7.0\Dictionary_Example.dll
+C:\Users\dj_ar\source\repos\Dictionary_Example\Dictionary_Example\obj\Debug\net7.0\refint\Dictionary_Example.dll
+C:\Users\dj_ar\source\repos\Dictionary_Example\Dictionary_Example\obj\Debug\net7.0\Dictionary_Example.pdb
+C:\Users\dj_ar\source\repos\Dictionary_Example\Dictionary_Example\obj\Debug\net7.0\Dictionary_Example.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Dictionary_Example\Dictionary_Example\obj\Debug\net7.0\ref\Dictionary_Example.dll

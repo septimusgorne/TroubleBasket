@@ -1,0 +1,10 @@
+C:\Users\dj_ar\source\repos\SimulationLifes\SimulationLifes\bin\Debug\SimulationLifes.exe.config
+C:\Users\dj_ar\source\repos\SimulationLifes\SimulationLifes\bin\Debug\SimulationLifes.exe
+C:\Users\dj_ar\source\repos\SimulationLifes\SimulationLifes\bin\Debug\SimulationLifes.pdb
+C:\Users\dj_ar\source\repos\SimulationLifes\SimulationLifes\obj\Debug\SimulationLifes.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\SimulationLifes\SimulationLifes\obj\Debug\SimulationLifes.csproj.SuggestedBindingRedirects.cache
+C:\Users\dj_ar\source\repos\SimulationLifes\SimulationLifes\obj\Debug\SimulationLifes.Form1.resources
+C:\Users\dj_ar\source\repos\SimulationLifes\SimulationLifes\obj\Debug\SimulationLifes.csproj.GenerateResource.cache
+C:\Users\dj_ar\source\repos\SimulationLifes\SimulationLifes\obj\Debug\SimulationLifes.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\SimulationLifes\SimulationLifes\obj\Debug\SimulationLifes.exe
+C:\Users\dj_ar\source\repos\SimulationLifes\SimulationLifes\obj\Debug\SimulationLifes.pdb

@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Walking_Codewars\Walking_Codewars\obj\Debug\net7.0\Walking_Codewars.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Walking_Codewars\Walking_Codewars\obj\Debug\net7.0\Walking_Codewars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Walking_Codewars\Walking_Codewars\obj\Debug\net7.0\Walking_Codewars.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Walking_Codewars\Walking_Codewars\obj\Debug\net7.0\Walking_Codewars.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Walking_Codewars\Walking_Codewars\obj\Debug\net7.0\Walking_Codewars.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Walking_Codewars\Walking_Codewars\bin\Debug\net7.0\Walking_Codewars.exe
+C:\Users\dj_ar\source\repos\Walking_Codewars\Walking_Codewars\bin\Debug\net7.0\Walking_Codewars.deps.json
+C:\Users\dj_ar\source\repos\Walking_Codewars\Walking_Codewars\bin\Debug\net7.0\Walking_Codewars.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Walking_Codewars\Walking_Codewars\bin\Debug\net7.0\Walking_Codewars.dll
+C:\Users\dj_ar\source\repos\Walking_Codewars\Walking_Codewars\bin\Debug\net7.0\Walking_Codewars.pdb
+C:\Users\dj_ar\source\repos\Walking_Codewars\Walking_Codewars\obj\Debug\net7.0\Walking_Codewars.dll
+C:\Users\dj_ar\source\repos\Walking_Codewars\Walking_Codewars\obj\Debug\net7.0\refint\Walking_Codewars.dll
+C:\Users\dj_ar\source\repos\Walking_Codewars\Walking_Codewars\obj\Debug\net7.0\Walking_Codewars.pdb
+C:\Users\dj_ar\source\repos\Walking_Codewars\Walking_Codewars\obj\Debug\net7.0\Walking_Codewars.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Walking_Codewars\Walking_Codewars\obj\Debug\net7.0\ref\Walking_Codewars.dll

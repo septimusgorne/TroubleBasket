@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Yield_Example\Yield_Example\obj\Debug\net7.0\Yield_Example.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Yield_Example\Yield_Example\obj\Debug\net7.0\Yield_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Yield_Example\Yield_Example\obj\Debug\net7.0\Yield_Example.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Yield_Example\Yield_Example\obj\Debug\net7.0\Yield_Example.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Yield_Example\Yield_Example\obj\Debug\net7.0\Yield_Example.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Yield_Example\Yield_Example\bin\Debug\net7.0\Yield_Example.exe
+C:\Users\dj_ar\source\repos\Yield_Example\Yield_Example\bin\Debug\net7.0\Yield_Example.deps.json
+C:\Users\dj_ar\source\repos\Yield_Example\Yield_Example\bin\Debug\net7.0\Yield_Example.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Yield_Example\Yield_Example\bin\Debug\net7.0\Yield_Example.dll
+C:\Users\dj_ar\source\repos\Yield_Example\Yield_Example\bin\Debug\net7.0\Yield_Example.pdb
+C:\Users\dj_ar\source\repos\Yield_Example\Yield_Example\obj\Debug\net7.0\Yield_Example.dll
+C:\Users\dj_ar\source\repos\Yield_Example\Yield_Example\obj\Debug\net7.0\refint\Yield_Example.dll
+C:\Users\dj_ar\source\repos\Yield_Example\Yield_Example\obj\Debug\net7.0\Yield_Example.pdb
+C:\Users\dj_ar\source\repos\Yield_Example\Yield_Example\obj\Debug\net7.0\Yield_Example.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Yield_Example\Yield_Example\obj\Debug\net7.0\ref\Yield_Example.dll

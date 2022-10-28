@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Codewars_ReturnNumber_Example\Codewars_ReturnNumber_Example\bin\Debug\net7.0\Codewars_ReturnNumber_Example.exe
+C:\Users\dj_ar\source\repos\Codewars_ReturnNumber_Example\Codewars_ReturnNumber_Example\bin\Debug\net7.0\Codewars_ReturnNumber_Example.deps.json
+C:\Users\dj_ar\source\repos\Codewars_ReturnNumber_Example\Codewars_ReturnNumber_Example\bin\Debug\net7.0\Codewars_ReturnNumber_Example.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Codewars_ReturnNumber_Example\Codewars_ReturnNumber_Example\bin\Debug\net7.0\Codewars_ReturnNumber_Example.dll
+C:\Users\dj_ar\source\repos\Codewars_ReturnNumber_Example\Codewars_ReturnNumber_Example\bin\Debug\net7.0\Codewars_ReturnNumber_Example.pdb
+C:\Users\dj_ar\source\repos\Codewars_ReturnNumber_Example\Codewars_ReturnNumber_Example\obj\Debug\net7.0\Codewars_ReturnNumber_Example.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Codewars_ReturnNumber_Example\Codewars_ReturnNumber_Example\obj\Debug\net7.0\Codewars_ReturnNumber_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Codewars_ReturnNumber_Example\Codewars_ReturnNumber_Example\obj\Debug\net7.0\Codewars_ReturnNumber_Example.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Codewars_ReturnNumber_Example\Codewars_ReturnNumber_Example\obj\Debug\net7.0\Codewars_ReturnNumber_Example.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Codewars_ReturnNumber_Example\Codewars_ReturnNumber_Example\obj\Debug\net7.0\Codewars_ReturnNumber_Example.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Codewars_ReturnNumber_Example\Codewars_ReturnNumber_Example\obj\Debug\net7.0\Codewars_ReturnNumber_Example.dll
+C:\Users\dj_ar\source\repos\Codewars_ReturnNumber_Example\Codewars_ReturnNumber_Example\obj\Debug\net7.0\refint\Codewars_ReturnNumber_Example.dll
+C:\Users\dj_ar\source\repos\Codewars_ReturnNumber_Example\Codewars_ReturnNumber_Example\obj\Debug\net7.0\Codewars_ReturnNumber_Example.pdb
+C:\Users\dj_ar\source\repos\Codewars_ReturnNumber_Example\Codewars_ReturnNumber_Example\obj\Debug\net7.0\Codewars_ReturnNumber_Example.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Codewars_ReturnNumber_Example\Codewars_ReturnNumber_Example\obj\Debug\net7.0\ref\Codewars_ReturnNumber_Example.dll

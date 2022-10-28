@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\MoveExample\MoveExample\obj\Debug\net7.0\MoveExample.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\MoveExample\MoveExample\obj\Debug\net7.0\MoveExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\MoveExample\MoveExample\obj\Debug\net7.0\MoveExample.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\MoveExample\MoveExample\obj\Debug\net7.0\MoveExample.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\MoveExample\MoveExample\obj\Debug\net7.0\MoveExample.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\MoveExample\MoveExample\bin\Debug\net7.0\MoveExample.exe
+C:\Users\dj_ar\source\repos\MoveExample\MoveExample\bin\Debug\net7.0\MoveExample.deps.json
+C:\Users\dj_ar\source\repos\MoveExample\MoveExample\bin\Debug\net7.0\MoveExample.runtimeconfig.json
+C:\Users\dj_ar\source\repos\MoveExample\MoveExample\bin\Debug\net7.0\MoveExample.dll
+C:\Users\dj_ar\source\repos\MoveExample\MoveExample\bin\Debug\net7.0\MoveExample.pdb
+C:\Users\dj_ar\source\repos\MoveExample\MoveExample\obj\Debug\net7.0\MoveExample.dll
+C:\Users\dj_ar\source\repos\MoveExample\MoveExample\obj\Debug\net7.0\refint\MoveExample.dll
+C:\Users\dj_ar\source\repos\MoveExample\MoveExample\obj\Debug\net7.0\MoveExample.pdb
+C:\Users\dj_ar\source\repos\MoveExample\MoveExample\obj\Debug\net7.0\MoveExample.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\MoveExample\MoveExample\obj\Debug\net7.0\ref\MoveExample.dll

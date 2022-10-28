@@ -1,0 +1,15 @@
+C:\Users\dj_ar\source\repos\Sort_Call_Example\Sort_Call_Example\obj\Debug\net7.0\Sort_Call_Example.csproj.AssemblyReference.cache
+C:\Users\dj_ar\source\repos\Sort_Call_Example\Sort_Call_Example\obj\Debug\net7.0\Sort_Call_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_ar\source\repos\Sort_Call_Example\Sort_Call_Example\obj\Debug\net7.0\Sort_Call_Example.AssemblyInfoInputs.cache
+C:\Users\dj_ar\source\repos\Sort_Call_Example\Sort_Call_Example\obj\Debug\net7.0\Sort_Call_Example.AssemblyInfo.cs
+C:\Users\dj_ar\source\repos\Sort_Call_Example\Sort_Call_Example\obj\Debug\net7.0\Sort_Call_Example.csproj.CoreCompileInputs.cache
+C:\Users\dj_ar\source\repos\Sort_Call_Example\Sort_Call_Example\bin\Debug\net7.0\Sort_Call_Example.exe
+C:\Users\dj_ar\source\repos\Sort_Call_Example\Sort_Call_Example\bin\Debug\net7.0\Sort_Call_Example.deps.json
+C:\Users\dj_ar\source\repos\Sort_Call_Example\Sort_Call_Example\bin\Debug\net7.0\Sort_Call_Example.runtimeconfig.json
+C:\Users\dj_ar\source\repos\Sort_Call_Example\Sort_Call_Example\bin\Debug\net7.0\Sort_Call_Example.dll
+C:\Users\dj_ar\source\repos\Sort_Call_Example\Sort_Call_Example\bin\Debug\net7.0\Sort_Call_Example.pdb
+C:\Users\dj_ar\source\repos\Sort_Call_Example\Sort_Call_Example\obj\Debug\net7.0\Sort_Call_Example.dll
+C:\Users\dj_ar\source\repos\Sort_Call_Example\Sort_Call_Example\obj\Debug\net7.0\refint\Sort_Call_Example.dll
+C:\Users\dj_ar\source\repos\Sort_Call_Example\Sort_Call_Example\obj\Debug\net7.0\Sort_Call_Example.pdb
+C:\Users\dj_ar\source\repos\Sort_Call_Example\Sort_Call_Example\obj\Debug\net7.0\Sort_Call_Example.genruntimeconfig.cache
+C:\Users\dj_ar\source\repos\Sort_Call_Example\Sort_Call_Example\obj\Debug\net7.0\ref\Sort_Call_Example.dll
